@@ -35,9 +35,8 @@ Utiliza el **menú lateral** para explorar las distintas secciones:
 - 📋 Seleccionar equipo
 - 🧑‍💼 Plantilla del equipo
 
-¡Gracias por confiar en Scouting Madrid y ser parte de esta evolución hacia un scouting más accesible y eficiente! ⚽📊
-
-
 # App desarrollada por Ebed Rodríguez - Contacto ebedleonr@gmail.com o +52 777 5601146
+
+
 """)
 
