@@ -1,0 +1,712 @@
+Nombre,Edad,Altura,Posicion,Equipo,Liga,ELO,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Valor_Mercado,Goles_por_partido,Asistencias_por_partido,Participacion_goles,Participacion_por_partido,Posición_Club,Aporte_Goles,Aporte_Puntos,RC,IDR,Impacto_Total
+D. Mosquera,25.0,183.0,Delanteros,LOS CABOS,Liga Premier Serie A Grupo A,40.0,12,11,12.0,0.0,3.0,54000.0,1.0,0.0,12.0,1.0,4,40.0,14.14,0.73,1.08,0.686
+J. Payares,20.0,177.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,40.0,14,12,7.0,0.0,2.0,188000.0,0.5,0.0,7.0,0.5,1,24.14,7.45,0.5,1.43,0.402
+Giovanni Soto,24.0,174.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,44.0,14,13,7.0,0.0,0.0,155000.0,0.5,0.0,7.0,0.5,2,35.0,7.7,0.45,0.43,0.392
+Erick Solórzano,24.0,182.0,Delanteros,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,45.0,12,2,5.0,0.0,1.0,242000.0,0.42,0.0,5.0,0.42,1,17.24,5.32,0.42,1.67,0.344
+A. Jacobo,23.0,183.0,Delanteros,TECOS,Liga Premier Serie A Grupo A,37.0,11,11,7.0,0.0,3.0,73000.0,0.64,0.0,7.0,0.64,6,35.0,10.5,0.35,0.27,0.456
+H. López,18.0,174.0,Delanteros,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,26.0,6,0,2.0,0.0,0.0,7000.0,0.33,0.0,2.0,0.33,1,6.9,2.13,0.33,3.33,0.27
+Yael Martínez,20.0,169.0,Delanteros,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,31.0,2,2,1.0,0.0,0.0,1000.0,0.5,0.0,1.0,0.5,5,4.55,1.38,0.32,2.0,0.333
+Jonathan Parra,23.0,180.0,Delanteros,DURANGO,Liga Premier Serie A Grupo A,39.0,16,14,6.0,0.0,1.0,129000.0,0.38,0.0,6.0,0.38,3,31.58,6.83,0.31,0.56,0.334
+K. Loera,26.0,177.0,Delanteros,LOS CABOS,Liga Premier Serie A Grupo A,44.0,14,12,6.0,0.0,2.0,100000.0,0.43,0.0,6.0,0.43,4,20.0,7.07,0.31,0.93,0.355
+J. Talavera,22.0,170.0,Delanteros,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,40.0,16,15,5.0,0.0,3.0,186000.0,0.31,0.0,5.0,0.31,1,17.24,5.32,0.31,1.25,0.299
+L. Camacho,26.0,175.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,49.0,14,13,4.0,0.0,4.0,150000.0,0.29,0.0,4.0,0.29,2,20.0,4.4,0.26,0.43,0.266
+Andrey Marcos,26.0,172.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,58.0,14,14,4.0,0.0,1.0,496000.0,0.29,0.0,4.0,0.29,2,20.0,4.4,0.26,0.43,0.266
+R. Maldonado,18.0,170.0,Delanteros,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,26.0,5,2,2.0,0.0,0.0,2000.0,0.4,0.0,2.0,0.4,5,9.09,2.75,0.25,0.8,0.28
+J. Ocón,25.0,185.0,Defensas,DURANGO,Liga Premier Serie A Grupo A,58.0,13,13,4.0,0.0,4.0,783000.0,0.31,0.0,4.0,0.31,3,21.05,4.55,0.25,0.69,0.274
+Jesús Reyes,25.0,171.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,42.0,15,15,4.0,0.0,0.0,41000.0,0.27,0.0,4.0,0.27,2,20.0,4.4,0.25,0.4,0.26
+B. Mendoza,20.0,177.0,Defensas,LEONES NEGROS II,Liga Premier Serie A Grupo A,30.0,4,3,2.0,0.0,0.0,17000.0,0.5,0.0,2.0,0.5,7,9.09,3.0,0.23,0.5,0.33
+José Reyes,24.0,175.0,Delanteros,DURANGO,Liga Premier Serie A Grupo A,50.0,15,13,4.0,0.0,2.0,370000.0,0.27,0.0,4.0,0.27,3,21.05,4.55,0.22,0.6,0.262
+P. Molina,24.0,179.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,46.0,14,14,3.0,0.0,2.0,318000.0,0.21,0.0,3.0,0.21,1,10.34,3.19,0.21,1.43,0.228
+Manuel Rivera,25.0,170.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,38.0,15,15,3.0,0.0,1.0,71000.0,0.2,0.0,3.0,0.2,1,10.34,3.19,0.2,1.33,0.228
+J. Casillas,25.0,168.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,53.0,14,12,5.0,0.0,2.0,361000.0,0.36,0.0,5.0,0.36,6,25.0,7.5,0.2,0.21,0.306
+F. Rabago,24.0,176.0,Defensas,LEONES NEGROS II,Liga Premier Serie A Grupo A,48.0,5,5,2.0,0.0,1.0,318000.0,0.4,0.0,2.0,0.4,7,9.09,3.0,0.18,0.4,0.275
+Favio Vargas,22.0,174.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,26.0,2,0,1.0,0.0,0.0,2000.0,0.5,0.0,1.0,0.5,8,4.55,1.5,0.18,-3.0,0.281
+C. Sanchez,22.0,172.0,Delanteros,TECOS,Liga Premier Serie A Grupo A,39.0,6,4,2.0,0.0,0.0,55000.0,0.33,0.0,2.0,0.33,6,10.0,3.0,0.18,0.5,0.241
+Carlos Aguilera,22.0,179.0,Defensas,UA ZACATECAS,Liga Premier Serie A Grupo A,26.0,4,2,2.0,0.0,0.0,6000.0,0.5,0.0,2.0,0.5,8,9.09,3.0,0.18,-1.5,0.309
+R. Encinas,22.0,,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,27.0,12,0,2.0,0.0,1.0,5000.0,0.17,0.0,2.0,0.17,1,6.9,2.13,0.17,1.67,0.194
+Kevin Madrigal,21.0,173.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,52.0,14,13,5.0,0.0,3.0,450000.0,0.36,0.0,5.0,0.36,7,22.73,7.5,0.16,0.14,0.305
+Juan Hernández,26.0,179.0,Delanteros,LOS CABOS,Liga Premier Serie A Grupo A,38.0,14,12,3.0,0.0,1.0,21000.0,0.21,0.0,3.0,0.21,4,10.0,3.54,0.15,0.93,0.223
+Osias Fernandez,23.0,175.0,Delanteros,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,41.0,9,9,2.0,0.0,0.0,125000.0,0.22,0.0,2.0,0.22,5,9.09,2.75,0.14,0.44,0.193
+Raúl Beltrán,24.0,171.0,Defensas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,52.0,14,14,2.0,0.0,3.0,551000.0,0.14,0.0,2.0,0.14,1,6.9,2.13,0.14,1.43,0.186
+J. Esqueda,27.0,184.0,Defensas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,45.0,10,9,2.0,0.0,5.0,158000.0,0.2,0.0,2.0,0.2,5,9.09,2.75,0.13,0.4,0.187
+Sergio Ramirez,22.0,185.0,Defensas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,27.0,5,0,1.0,0.0,0.0,1000.0,0.2,0.0,1.0,0.2,5,4.55,1.38,0.13,0.8,0.16
+N. Pérez,23.0,178.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,30.0,8,3,1.0,0.0,0.0,21000.0,0.12,0.0,1.0,0.12,1,3.45,1.06,0.12,2.5,0.148
+A. Hernández,19.0,172.0,Delanteros,LEONES NEGROS II,Liga Premier Serie A Grupo A,35.0,11,9,3.0,0.0,2.0,52000.0,0.27,0.0,3.0,0.27,7,13.64,4.5,0.12,0.18,0.233
+José Raudales,24.0,176.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,50.0,12,12,4.0,0.0,0.0,366000.0,0.33,0.0,4.0,0.33,8,18.18,6.0,0.12,-0.5,0.268
+Denilson Villa,26.0,170.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,56.0,12,11,4.0,0.0,0.0,385000.0,0.33,0.0,4.0,0.33,8,18.18,6.0,0.12,-0.5,0.268
+J. Garibay,24.0,170.0,Delanteros,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,50.0,11,4,2.0,0.0,2.0,191000.0,0.18,0.0,2.0,0.18,5,9.09,2.75,0.11,0.36,0.18
+E. Navarro,18.0,170.0,Delanteros,LEONES NEGROS II,Liga Premier Serie A Grupo A,33.0,4,2,1.0,0.0,0.0,25000.0,0.25,0.0,1.0,0.25,7,4.55,1.5,0.11,0.5,0.18
+Leonardo Velasco,24.0,168.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,36.0,11,8,2.0,0.0,1.0,21000.0,0.18,0.0,2.0,0.18,5,9.09,2.75,0.11,0.36,0.18
+Juan Escobedo,24.0,176.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,34.0,11,10,3.0,0.0,0.0,74000.0,0.27,0.0,3.0,0.27,8,13.64,4.5,0.1,-0.55,0.225
+Eduardo Chacón,24.0,180.0,Delanteros,LOS CABOS,Liga Premier Serie A Grupo A,37.0,14,14,2.0,0.0,3.0,46000.0,0.14,0.0,2.0,0.14,4,6.67,2.36,0.1,0.93,0.181
+Abel Ramos,25.0,170.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,44.0,7,5,1.0,0.0,1.0,123000.0,0.14,0.0,1.0,0.14,4,3.33,1.18,0.1,1.86,0.147
+B. Sartiaguin,25.0,183.0,Defensas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,49.0,13,12,2.0,0.0,7.0,207000.0,0.15,0.0,2.0,0.15,5,9.09,2.75,0.1,0.31,0.174
+Vinicius Reis,21.0,182.0,Delanteros,REAL APODACA,Liga Premier Serie A Grupo A,37.0,9,0,1.0,0.0,1.0,28000.0,0.11,0.0,1.0,0.11,2,5.0,1.1,0.1,0.67,0.129
+E. Verduzco,28.0,179.0,Delanteros,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,40.0,12,12,12.0,0.0,3.0,13000.0,1.0,0.0,12.0,1.0,11,70.59,24.75,0.09,-0.83,0.666
+Daniel Jiménez,21.0,172.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,30.0,12,11,3.0,0.0,0.0,21000.0,0.25,0.0,3.0,0.25,8,13.64,4.5,0.09,-0.5,0.22
+David Negrete,17.0,167.0,Delanteros,TECOS,Liga Premier Serie A Grupo A,27.0,6,3,1.0,0.0,0.0,5000.0,0.17,0.0,1.0,0.17,6,5.0,1.5,0.09,0.5,0.145
+Sebastián Medina,23.0,172.0,Defensas,TECOS,Liga Premier Serie A Grupo A,51.0,7,6,1.0,0.0,0.0,320000.0,0.14,0.0,1.0,0.14,6,5.0,1.5,0.08,0.43,0.132
+Aldo Suárez,26.0,184.0,Delanteros,TRITONES VALLARTA,Liga Premier Serie A Grupo A,47.0,13,8,4.0,0.0,1.0,125000.0,0.31,0.0,4.0,0.31,9,25.0,6.29,0.08,0.08,0.268
+C. García,27.0,176.0,Defensas,UA ZACATECAS,Liga Premier Serie A Grupo A,53.0,9,8,2.0,0.0,5.0,273000.0,0.22,0.0,2.0,0.22,8,9.09,3.0,0.08,-0.67,0.181
+Yaro Martínez,18.0,168.0,Delanteros,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,35.0,12,10,5.0,0.0,0.0,73000.0,0.42,0.0,5.0,0.42,10,26.32,9.71,0.08,-0.25,0.324
+Julio Ruiz,22.0,180.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,42.0,13,12,1.0,0.0,2.0,200000.0,0.08,0.0,1.0,0.08,1,3.45,1.06,0.08,1.54,0.145
+Karol Valdivia,19.0,175.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,37.0,6,1,1.0,0.0,1.0,53000.0,0.17,0.0,1.0,0.17,7,4.55,1.5,0.08,0.33,0.143
+Carlos García,18.0,165.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,28.0,11,4,1.0,0.0,1.0,9000.0,0.09,0.0,1.0,0.09,4,3.33,1.18,0.07,1.18,0.135
+Giovanny Herrera,21.0,175.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,39.0,13,12,2.0,0.0,5.0,96000.0,0.15,0.0,2.0,0.15,7,9.09,3.0,0.07,0.15,0.173
+Jan Ontiveros,22.0,178.0,Defensas,DURANGO,Liga Premier Serie A Grupo A,47.0,12,11,1.0,0.0,6.0,255000.0,0.08,0.0,1.0,0.08,3,5.26,1.14,0.07,0.75,0.131
+A. Coronado,28.0,174.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,53.0,14,13,1.0,0.0,0.0,309000.0,0.07,0.0,1.0,0.07,1,3.45,1.06,0.07,1.43,0.144
+Christian Fernández,21.0,165.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,36.0,15,15,1.0,0.0,1.0,94000.0,0.07,0.0,1.0,0.07,1,3.45,1.06,0.07,1.33,0.15
+Axel Díaz,24.0,182.0,Defensas,REAL APODACA,Liga Premier Serie A Grupo A,44.0,12,10,1.0,0.0,1.0,78000.0,0.08,0.0,1.0,0.08,2,5.0,1.1,0.07,0.5,0.128
+V. García,23.0,175.0,Centrocampistas,DURANGO,Liga Premier Serie A Grupo A,48.0,11,6,1.0,0.0,2.0,268000.0,0.09,0.0,1.0,0.09,3,5.26,1.14,0.07,0.82,0.131
+W. Mejía,26.0,183.0,Centrocampistas,DURANGO,Liga Premier Serie A Grupo A,55.0,12,11,1.0,0.0,3.0,536000.0,0.08,0.0,1.0,0.08,3,5.26,1.14,0.07,0.75,0.131
+Emiliano Trejo,23.0,183.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,38.0,11,10,4.0,0.0,3.0,31000.0,0.36,0.0,4.0,0.36,10,21.05,7.76,0.07,-0.27,0.282
+Jesús Quintero,24.0,176.0,Delanteros,DURANGO,Liga Premier Serie A Grupo A,51.0,13,9,1.0,0.0,1.0,342000.0,0.08,0.0,1.0,0.08,3,5.26,1.14,0.07,0.69,0.136
+S. Ramírez,26.0,180.0,Delanteros,REAL APODACA,Liga Premier Serie A Grupo A,48.0,15,8,1.0,0.0,0.0,111000.0,0.07,0.0,1.0,0.07,2,5.0,1.1,0.06,0.4,0.14
+César Hernández,22.0,165.0,Defensas,LOS CABOS,Liga Premier Serie A Grupo A,35.0,12,10,1.0,0.0,3.0,40000.0,0.08,0.0,1.0,0.08,4,3.33,1.18,0.06,1.08,0.134
+Cristian Ortega,26.0,177.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,54.0,13,13,1.0,0.0,1.0,336000.0,0.08,0.0,1.0,0.08,4,3.33,1.18,0.06,1.0,0.14
+Jesús Leal,22.0,167.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,40.0,14,14,1.0,0.0,0.0,75000.0,0.07,0.0,1.0,0.07,2,5.0,1.1,0.06,0.43,0.134
+Guillermo Gallardo,20.0,175.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,37.0,9,2,1.0,0.0,0.0,59000.0,0.11,0.0,1.0,0.11,6,5.0,1.5,0.06,0.33,0.126
+Francisco Quiñones,25.0,177.0,Defensas,DURANGO,Liga Premier Serie A Grupo A,48.0,14,3,1.0,0.0,1.0,157000.0,0.07,0.0,1.0,0.07,3,5.26,1.14,0.06,0.64,0.136
+A. Reyes,25.0,193.0,Defensas,LOS CABOS,Liga Premier Serie A Grupo A,53.0,14,12,1.0,0.0,2.0,282000.0,0.07,0.0,1.0,0.07,4,3.33,1.18,0.05,0.93,0.139
+J. Sepúlveda,18.0,170.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,28.0,9,4,1.0,0.0,1.0,8000.0,0.11,0.0,1.0,0.11,7,4.55,1.5,0.05,0.22,0.125
+B. Murillo,23.0,172.0,Delanteros,TRITONES VALLARTA,Liga Premier Serie A Grupo A,26.0,10,0,2.0,0.0,0.0,2000.0,0.2,0.0,2.0,0.2,9,12.5,3.14,0.05,0.1,0.184
+Juan Sandoval,22.0,167.0,Centrocampistas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,31.0,6,3,1.0,0.0,1.0,9000.0,0.17,0.0,1.0,0.17,9,6.25,1.57,0.05,0.17,0.141
+José Félix,23.0,176.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,34.0,7,2,1.0,0.0,2.0,41000.0,0.14,0.0,1.0,0.14,8,4.55,1.5,0.05,-0.86,0.119
+Jesús Delgado,24.0,177.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,37.0,12,10,1.0,0.0,1.0,18000.0,0.08,0.0,1.0,0.08,5,4.55,1.38,0.05,0.33,0.126
+A. Sánchez,26.0,181.0,Defensas,LOS CABOS,Liga Premier Serie A Grupo A,49.0,14,14,1.0,0.0,1.0,278000.0,0.07,0.0,1.0,0.07,4,3.33,1.18,0.05,0.93,0.139
+Alberto Chávez,22.0,185.0,Delanteros,LEONES NEGROS II,Liga Premier Serie A Grupo A,39.0,8,1,1.0,0.0,0.0,112000.0,0.12,0.0,1.0,0.12,7,4.55,1.5,0.05,0.25,0.125
+Marco Ahuate,25.0,170.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,53.0,13,13,1.0,0.0,4.0,272000.0,0.08,0.0,1.0,0.08,5,4.55,1.38,0.05,0.31,0.132
+Jonathan Reyes,20.0,168.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,28.0,13,9,1.0,0.0,0.0,22000.0,0.08,0.0,1.0,0.08,6,5.0,1.5,0.04,0.23,0.132
+Marlon Sayas,20.0,180.0,Defensas,TECOS,Liga Premier Serie A Grupo A,28.0,12,11,1.0,0.0,1.0,10000.0,0.08,0.0,1.0,0.08,6,5.0,1.5,0.04,0.25,0.126
+Diego Romero,22.0,177.0,Defensas,TECOS,Liga Premier Serie A Grupo A,45.0,13,13,1.0,0.0,1.0,212000.0,0.08,0.0,1.0,0.08,6,5.0,1.5,0.04,0.23,0.132
+T. Barba,18.0,190.0,Delanteros,LEONES NEGROS II,Liga Premier Serie A Grupo A,33.0,11,6,1.0,0.0,0.0,48000.0,0.09,0.0,1.0,0.09,7,4.55,1.5,0.04,0.18,0.125
+Fernando Piña,22.0,179.0,Defensas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,39.0,14,14,2.0,0.0,4.0,90000.0,0.14,0.0,2.0,0.14,9,12.5,3.14,0.04,0.07,0.172
+Andrés Becerra,21.0,168.0,Defensas,LEONES NEGROS II,Liga Premier Serie A Grupo A,52.0,11,11,1.0,0.0,4.0,630000.0,0.09,0.0,1.0,0.09,7,4.55,1.5,0.04,0.18,0.125
+Daniel Torres,20.0,178.0,Defensas,LEONES NEGROS II,Liga Premier Serie A Grupo A,39.0,12,8,1.0,0.0,0.0,90000.0,0.08,0.0,1.0,0.08,7,4.55,1.5,0.04,0.17,0.125
+Ulises Meza,20.0,170.0,Defensas,LEONES NEGROS II,Liga Premier Serie A Grupo A,35.0,11,9,1.0,0.0,4.0,57000.0,0.09,0.0,1.0,0.09,7,4.55,1.5,0.04,0.18,0.125
+Ibrahima Mbaye,26.0,173.0,Centrocampistas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,40.0,8,1,1.0,0.0,1.0,54000.0,0.12,0.0,1.0,0.12,9,6.25,1.57,0.03,0.12,0.123
+Jairo Mungaray,24.0,184.0,Delanteros,TRITONES VALLARTA,Liga Premier Serie A Grupo A,48.0,10,6,1.0,0.0,1.0,268000.0,0.1,0.0,1.0,0.1,9,6.25,1.57,0.03,0.1,0.124
+Christian Martínez,19.0,150.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,26.0,8,1,1.0,0.0,0.0,2000.0,0.12,0.0,1.0,0.12,10,5.26,1.94,0.02,-0.38,0.118
+M. Beltrán,26.0,170.0,Centrocampistas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,45.0,14,14,1.0,0.0,2.0,95000.0,0.07,0.0,1.0,0.07,9,6.25,1.57,0.02,0.07,0.13
+Diego Pillado,23.0,176.0,Centrocampistas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,47.0,14,9,1.0,0.0,1.0,208000.0,0.07,0.0,1.0,0.07,9,6.25,1.57,0.02,0.07,0.13
+B. Zavala,24.0,172.0,Centrocampistas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,44.0,14,13,1.0,0.0,2.0,155000.0,0.07,0.0,1.0,0.07,9,6.25,1.57,0.02,0.07,0.13
+Noah Bommer,21.0,187.0,Defensas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,38.0,10,9,1.0,0.0,3.0,119000.0,0.1,0.0,1.0,0.1,10,5.26,1.94,0.02,-0.3,0.119
+Osvaldo Pérez,19.0,192.0,Defensas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,40.0,11,10,1.0,0.0,0.0,138000.0,0.09,0.0,1.0,0.09,9,6.25,1.57,0.02,0.09,0.124
+R. López,21.0,172.0,Delanteros,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,33.0,14,9,2.0,0.0,2.0,6000.0,0.14,0.0,2.0,0.14,11,11.76,4.12,0.01,-0.71,0.164
+G. Rodríguez,21.0,175.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,46.0,13,11,1.0,0.0,1.0,232000.0,0.08,0.0,1.0,0.08,10,5.26,1.94,0.01,-0.23,0.127
+Joel Villanazul,17.0,173.0,Centrocampistas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,27.0,8,5,1.0,0.0,2.0,2000.0,0.12,0.0,1.0,0.12,11,5.88,2.06,0.01,-1.25,0.109
+D. Castro,23.0,175.0,Delanteros,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,27.0,13,5,1.0,0.0,0.0,9000.0,0.08,0.0,1.0,0.08,11,5.88,2.06,0.01,-0.77,0.121
+Brayan Muñóz,21.0,165.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,47.0,12,10,1.0,0.0,5.0,258000.0,0.08,0.0,1.0,0.08,10,5.26,1.94,0.01,-0.25,0.12
+Angel Macías,19.0,177.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,31.0,12,3,1.0,0.0,0.0,18000.0,0.08,0.0,1.0,0.08,10,5.26,1.94,0.01,-0.25,0.12
+C. López,16.0,175.0,Centrocampistas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,29.0,8,3,1.0,0.0,0.0,3000.0,0.12,0.0,1.0,0.12,11,5.88,2.06,0.01,-1.25,0.109
+Emiliano Martínez,23.0,177.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,40.0,13,12,1.0,0.0,6.0,61000.0,0.08,0.0,1.0,0.08,10,5.26,1.94,0.01,-0.23,0.127
+J. Pérez,19.0,179.0,Defensas,TECOS,Liga Premier Serie A Grupo A,26.0,2,2,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.5,0.028
+Aldo Navarro,21.0,173.0,Defensas,TECOS,Liga Premier Serie A Grupo A,26.0,7,1,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.43,0.048
+M. Goytia,24.0,176.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,45.0,10,10,0.0,0.0,4.0,166000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.6,0.056
+Diego Trujillo,22.0,174.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,43.0,12,8,0.0,0.0,1.0,103000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.25,0.078
+B. Fonseca,26.0,172.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,50.0,14,13,0.0,0.0,1.0,192000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.21,0.09
+Antonio Hernández,23.0,173.0,Defensas,UA ZACATECAS,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-6.0,-0.056
+Omar Castellanos,19.0,160.0,Defensas,TECOS,Liga Premier Serie A Grupo A,32.0,5,2,0.0,0.0,0.0,12000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.6,0.037
+J. Velásquez,25.0,175.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,39.0,12,8,0.0,0.0,6.0,82000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.5,0.08
+César López,22.0,168.0,Defensas,TECOS,Liga Premier Serie A Grupo A,43.0,12,12,0.0,0.0,1.0,201000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.25,0.078
+José Reyes,21.0,171.0,Defensas,TECOS,Liga Premier Serie A Grupo A,34.0,12,10,0.0,0.0,2.0,61000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.25,0.078
+Juan Santamaria,23.0,170.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,43.0,12,12,0.0,0.0,0.0,152000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.5,0.07
+C. Jiménez,22.0,179.0,Defensas,UA ZACATECAS,Liga Premier Serie A Grupo A,38.0,5,4,0.0,0.0,0.0,39000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-1.2,0.019
+Jorge Cabrera,24.0,170.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,31.0,6,2,0.0,0.0,2.0,22000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-1.0,0.027
+Francisco Lugo,20.0,165.0,Defensas,TECOS,Liga Premier Serie A Grupo A,49.0,12,11,0.0,0.0,2.0,361000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.25,0.078
+Miguel Rodela,24.0,175.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,26.0,11,2,0.0,0.0,2.0,7000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.55,0.063
+Iván Piña,21.0,168.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,26.0,2,0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,3.0,0.044
+Hernán Pineda,26.0,171.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,30.0,11,10,0.0,0.0,4.0,16000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.55,0.074
+Diego Hernández,22.0,168.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,26.0,3,0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-2.0,-0.002
+J. Castañeda,18.0,169.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,26.0,8,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.75,0.042
+Á. Urista,18.0,169.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,26.0,7,0,0.0,0.0,1.0,4000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.86,0.035
+Eduardo Grijalba,23.0,179.0,Centrocampistas,UA ZACATECAS,Liga Premier Serie A Grupo A,28.0,4,1,0.0,0.0,1.0,6000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-1.5,0.009
+M. González,23.0,176.0,Defensas,UA ZACATECAS,Liga Premier Serie A Grupo A,31.0,5,4,0.0,0.0,1.0,15000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-1.2,0.019
+L. Ramírez,28.0,180.0,Defensas,UA ZACATECAS,Liga Premier Serie A Grupo A,48.0,8,8,0.0,0.0,3.0,161000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.75,0.042
+Z. Del Río,19.0,170.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,31.0,6,1,0.0,0.0,0.0,24000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.5,0.043
+M. Romo,23.0,169.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,36.0,3,2,0.0,0.0,0.0,39000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.0,0.029
+Leonardo Correa,23.0,175.0,Delanteros,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,41.0,7,2,0.0,0.0,0.0,59000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.57,0.05
+Cristian Rodríguez,26.0,178.0,Defensas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,42.0,13,12,0.0,0.0,4.0,99000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.08,0.082
+Victor Zamora,18.0,176.0,Defensas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,30.0,12,11,0.0,0.0,1.0,16000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.08,0.076
+A. Hernández,17.0,172.0,Defensas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,27.0,12,3,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.08,0.076
+Javier Anguiano,21.0,171.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,4.0,0.048
+Ramiro Garcia,21.0,177.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,28.0,8,4,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.5,0.055
+Mauricio Romero,18.0,174.0,Defensas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,26.0,4,0,0.0,0.0,0.0,7000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.25,0.028
+Freddy Veliz,17.0,,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,32.0,11,5,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.36,0.072
+Sahid Durán,21.0,175.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,36.0,1,0,0.0,0.0,1.0,24000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,4.0,0.048
+José Alcántar,21.0,165.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,37.0,9,1,0.0,0.0,0.0,49000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.44,0.061
+Mario Domínguez Castro,23.0,169.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,42.0,11,10,0.0,0.0,0.0,41000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.36,0.072
+C. Ortíz,26.0,167.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,43.0,12,11,0.0,0.0,3.0,70000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.33,0.078
+S. Velázquez,26.0,177.0,Centrocampistas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,51.0,14,8,0.0,0.0,2.0,170000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.29,0.091
+Jean Ramos,22.0,175.0,Centrocampistas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,42.0,6,4,0.0,0.0,3.0,115000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.17,0.039
+Daniel Haro,22.0,184.0,Defensas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,26.0,1,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,4.0,0.048
+Ernesto Aguayo,19.0,180.0,Defensas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,26.0,2,2,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,2.0,0.033
+Erick Gallegos,,,Defensas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,28.0,3,3,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.33,0.033
+Salvador Joya,21.0,180.0,Centrocampistas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,26.0,2,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.5,0.018
+J. Reyes,23.0,170.0,Defensas,TIGRES DE ÁLICA,Liga Premier Serie A Grupo A,48.0,13,10,0.0,0.0,2.0,168000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.31,0.084
+J. Avila,20.0,174.0,Centrocampistas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,26.0,8,0,0.0,0.0,1.0,2000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.12,0.051
+C. Perez,19.0,163.0,Delanteros,TECOS,Liga Premier Serie A Grupo A,26.0,5,1,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.6,0.037
+Fabricio Alves,19.0,168.0,Delanteros,TECOS,Liga Premier Serie A Grupo A,26.0,3,0,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.0,0.029
+E. Ruvalcaba,24.0,179.0,Delanteros,TECOS,Liga Premier Serie A Grupo A,40.0,8,1,0.0,0.0,3.0,56000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.38,0.054
+J. Sandoval,24.0,176.0,Defensas,UA ZACATECAS,Liga Premier Serie A Grupo A,52.0,12,12,0.0,0.0,1.0,335000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-0.5,0.07
+Nelson García,22.0,180.0,Defensas,TRITONES VALLARTA,Liga Premier Serie A Grupo A,42.0,14,13,0.0,0.0,1.0,176000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,0.07,0.088
+Nicolas López,19.0,159.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,26.0,2,1,0.0,0.0,0.0,7000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.5,0.028
+Keoki Murillo,19.0,171.0,Centrocampistas,TECOS,Liga Premier Serie A Grupo A,30.0,8,3,0.0,0.0,1.0,22000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.38,0.054
+Omar Lomeli,22.0,183.0,Defensas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,44.0,10,8,0.0,0.0,3.0,114000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.0,0.052
+F. Hernández,21.0,176.0,Defensas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,36.0,13,7,0.0,0.0,1.0,34000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.23,0.079
+M. Zavala,26.0,168.0,Centrocampistas,REAL APODACA,Liga Premier Serie A Grupo A,43.0,14,12,0.0,0.0,5.0,78000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.43,0.092
+Braulio Jiménez,18.0,171.0,Defensas,LEONES NEGROS II,Liga Premier Serie A Grupo A,27.0,5,5,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.4,0.035
+Ernesto Aquino,22.0,178.0,Centrocampistas,DURANGO,Liga Premier Serie A Grupo A,50.0,8,8,0.0,0.0,0.0,549000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.12,0.062
+Adrián Lozano,26.0,175.0,Centrocampistas,DURANGO,Liga Premier Serie A Grupo A,52.0,12,8,0.0,0.0,0.0,350000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.75,0.083
+Jesús Torres,19.0,,Centrocampistas,DURANGO,Liga Premier Serie A Grupo A,32.0,12,11,0.0,0.0,1.0,58000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.75,0.083
+Ángel González,22.0,170.0,Centrocampistas,DURANGO,Liga Premier Serie A Grupo A,27.0,9,1,0.0,0.0,1.0,4000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.0,0.067
+C. Zorrilla,21.0,179.0,Delanteros,DURANGO,Liga Premier Serie A Grupo A,29.0,13,5,0.0,0.0,2.0,8000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.69,0.088
+Elioth Mata,23.0,177.0,Delanteros,DURANGO,Liga Premier Serie A Grupo A,37.0,2,0,0.0,0.0,0.0,26000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,4.5,0.059
+Yefte Espinosa,23.0,170.0,Delanteros,DURANGO,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,9.0,0.099
+Julio Aguirre,21.0,185.0,Delanteros,DURANGO,Liga Premier Serie A Grupo A,26.0,6,1,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.5,0.053
+Miguel Nuño,16.0,158.0,Defensas,LEONES NEGROS II,Liga Premier Serie A Grupo A,28.0,9,6,0.0,0.0,2.0,7000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.22,0.059
+Luis Padilla,18.0,170.0,Defensas,LEONES NEGROS II,Liga Premier Serie A Grupo A,26.0,3,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.67,0.026
+Brandon Zamudio,21.0,173.0,Defensas,REAL APODACA,Liga Premier Serie A Grupo A,36.0,5,1,0.0,0.0,0.0,18000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1.2,0.044
+Mauro Valenzuela,19.0,177.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,33.0,8,8,0.0,0.0,1.0,70000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.25,0.053
+J. Silva,20.0,169.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,32.0,15,9,0.0,0.0,2.0,21000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.13,0.095
+Christopher González,19.0,176.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,27.0,7,3,0.0,0.0,0.0,11000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.29,0.047
+I. Hernández,21.0,170.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,2.0,0.027
+Javier Romero,19.0,172.0,Centrocampistas,LEONES NEGROS II,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,2.0,0.027
+Farid Morales,19.0,170.0,Delanteros,LEONES NEGROS II,Liga Premier Serie A Grupo A,28.0,9,4,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.22,0.059
+Axel Cruz,25.0,180.0,Defensas,LOS CABOS,Liga Premier Serie A Grupo A,50.0,6,5,0.0,0.0,2.0,257000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.17,0.06
+José Peralta,20.0,165.0,Defensas,LOS CABOS,Liga Premier Serie A Grupo A,37.0,10,8,0.0,0.0,1.0,55000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.3,0.076
+J. Mejia,24.0,187.0,Defensas,LOS CABOS,Liga Premier Serie A Grupo A,26.0,2,0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,6.5,0.08
+M. Montelongo,26.0,173.0,Centrocampistas,DURANGO,Liga Premier Serie A Grupo A,53.0,15,14,0.0,0.0,2.0,381000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.6,0.1
+C. Sifuentes,18.0,173.0,Defensas,DURANGO,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,11000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,9.0,0.099
+Néstor Díaz,23.0,176.0,Defensas,DURANGO,Liga Premier Serie A Grupo A,55.0,8,3,0.0,0.0,1.0,690000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.12,0.062
+C. Hinojosa,26.0,187.0,Defensas,DURANGO,Liga Premier Serie A Grupo A,54.0,14,14,0.0,0.0,4.0,346000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.64,0.094
+K. Robles,23.0,177.0,Defensas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,32.0,7,5,0.0,0.0,1.0,11000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.43,0.029
+D. Nevarez,23.0,174.0,Defensas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,26.0,3,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-3.33,-0.016
+E. Ruiz,19.0,182.0,Defensas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,30.0,2,1,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-5.0,-0.039
+Miguel González,23.0,177.0,Centrocampistas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,40.0,13,13,0.0,0.0,6.0,38000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.77,0.073
+J. Soto,19.0,173.0,Centrocampistas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,36.0,13,11,0.0,0.0,2.0,10000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.77,0.073
+Cristian Rivera,23.0,167.0,Centrocampistas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,33.0,13,13,0.0,0.0,5.0,4000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.77,0.073
+David Jimenez,22.0,173.0,Centrocampistas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,37.0,9,7,0.0,0.0,1.0,17000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.11,0.045
+Zaydiel Enriquez,20.0,168.0,Centrocampistas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,26.0,8,2,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.25,0.037
+Meyvin Torres,20.0,175.0,Centrocampistas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-10.0,-0.097
+Cesar May,24.0,168.0,Delanteros,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,35.0,13,7,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.77,0.073
+Francisco Guerrero,21.0,175.0,Delanteros,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,33.0,13,12,0.0,0.0,3.0,4000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.77,0.073
+Gabriel Martínez,22.0,181.0,Delanteros,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-10.0,-0.097
+Ivan Ruiz,20.0,170.0,Defensas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,37.0,6,2,0.0,0.0,0.0,73000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,3.33,0.072
+B. Navarro,23.0,176.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,52.0,12,12,0.0,0.0,4.0,547000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.67,0.092
+Jesús Tobie,24.0,170.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,43.0,14,14,0.0,0.0,3.0,160000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.43,0.102
+D. Hernández,23.0,164.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,35.0,4,0,0.0,0.0,0.0,54000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,5.0,0.077
+T. Encinas,22.0,180.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,26.0,8,1,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.5,0.076
+Ernesto Ascencio,21.0,174.0,Centrocampistas,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,28.0,7,0,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.86,0.073
+J. Anderson,23.0,180.0,Delanteros,CIMARRONES DE SONORA,Liga Premier Serie A Grupo A,26.0,3,0,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,6.67,0.088
+Sergio Romero,21.0,164.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,32.0,14,14,0.0,0.0,2.0,18000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.93,0.097
+Bryan Godínez,23.0,181.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,39.0,5,0,0.0,0.0,1.0,68000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.6,0.058
+Edson Martínez,24.0,172.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,33.0,7,1,0.0,0.0,1.0,29000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.86,0.063
+Á. Luque,20.0,171.0,Delanteros,MEXICALI FC,Liga Premier Serie A Grupo A,28.0,8,4,0.0,0.0,0.0,7000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-3.62,0.013
+J. Rojas,25.0,175.0,Delanteros,MEXICALI FC,Liga Premier Serie A Grupo A,26.0,12,7,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-2.42,0.05
+Franco Buganza,22.0,176.0,Defensas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,32.0,12,11,0.0,0.0,3.0,28000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.25,0.072
+Martín Ramírez,23.0,188.0,Defensas,AGRICULTORES GUASAVE,Liga Premier Serie A Grupo A,33.0,11,8,0.0,0.0,2.0,16000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-0.91,0.059
+A. Velarde,21.0,186.0,Defensas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,29.0,13,13,0.0,0.0,4.0,5000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.23,0.079
+Erick Montero,20.0,180.0,Defensas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,35.0,5,3,0.0,0.0,1.0,36000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.6,0.025
+Raul Hernandez,20.0,178.0,Defensas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,27.0,4,3,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.75,0.017
+L. Macías,21.0,178.0,Defensas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,26.0,7,1,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.43,0.039
+A. Blanco Martinez,20.0,164.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,44.0,3,2,0.0,0.0,0.0,201000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.0,0.008
+Hugo Mata,19.0,169.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,26.0,9,7,0.0,0.0,3.0,3000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.33,0.053
+Carlos Amador,19.0,164.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,26.0,11,5,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.27,0.066
+Pablo Rivera,19.0,163.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,26.0,2,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.5,-0.003
+Gael Fernández,20.0,165.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-3.0,-0.025
+Rubén Mancilla,20.0,180.0,Centrocampistas,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-3.0,-0.025
+Alan Sandoval,19.0,168.0,Delanteros,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,30.0,13,10,0.0,0.0,2.0,9000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.23,0.079
+Andrew Martinez,20.0,180.0,Delanteros,MINEROS DE FRESNILLO,Liga Premier Serie A Grupo A,26.0,8,1,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.38,0.046
+Hernán Flores,23.0,182.0,Defensas,REAL APODACA,Liga Premier Serie A Grupo A,38.0,10,10,0.0,0.0,1.0,53000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.6,0.069
+Jesús Bernal,22.0,185.0,Defensas,REAL APODACA,Liga Premier Serie A Grupo A,40.0,1,0,0.0,0.0,0.0,71000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,6.0,0.068
+Emmanuel Garza,19.0,168.0,Defensas,REAL APODACA,Liga Premier Serie A Grupo A,30.0,11,3,0.0,0.0,0.0,14000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0.55,0.074
+José Hernández,20.0,174.0,Defensas,REAL APODACA,Liga Premier Serie A Grupo A,35.0,2,0,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,3.0,0.044
+Fermín Díaz,24.0,180.0,Delanteros,MEXICALI FC,Liga Premier Serie A Grupo A,29.0,12,2,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-2.42,0.05
+Carlos Andrade,24.0,178.0,Delanteros,MEXICALI FC,Liga Premier Serie A Grupo A,33.0,12,9,0.0,0.0,0.0,28000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-2.42,0.05
+Juan Sandoval,22.0,170.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,26.0,11,4,0.0,0.0,1.0,4000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.18,0.081
+J. Bautista,19.0,175.0,Delanteros,MEXICALI FC,Liga Premier Serie A Grupo A,32.0,13,13,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-2.23,0.058
+Edgar Beltran,20.0,166.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,27.0,10,1,0.0,0.0,2.0,5000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.3,0.076
+Renato Gonzalez,18.0,171.0,Centrocampistas,LOS CABOS,Liga Premier Serie A Grupo A,26.0,2,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,6.5,0.08
+Kevin Dieguez,16.0,167.0,Delanteros,LOS CABOS,Liga Premier Serie A Grupo A,26.0,2,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,6.5,0.08
+W. Jiménez,25.0,188.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,42.0,11,11,1.0,0.0,2.0,47000.0,0.09,0.0,1.0,0.09,12,16.67,inf,0.0,-2.64,0.095
+Cristo Torres,24.0,192.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,46.0,6,6,0.0,0.0,0.0,89000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-4.83,-0.012
+A. Nungaray,20.0,186.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,34.0,8,8,0.0,0.0,2.0,9000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-3.62,0.013
+Luis Váldez,23.0,183.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,33.0,10,10,0.0,0.0,4.0,11000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-2.9,0.032
+Luis Rivera,20.0,177.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,39.0,8,4,0.0,0.0,0.0,33000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-3.62,0.013
+Diego Moreno,24.0,172.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-29.0,-0.294
+Daniel Campos,19.0,182.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-29.0,-0.294
+C. Moreno,21.0,170.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,26.0,2,1,1.0,0.0,0.0,1000.0,0.5,0.0,1.0,0.5,12,16.67,inf,0.0,-14.5,0.162
+M. Valencia,21.0,175.0,Defensas,MEXICALI FC,Liga Premier Serie A Grupo A,26.0,4,4,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-7.25,-0.05
+O. Ramírez,23.0,,Centrocampistas,MEXICALI FC,Liga Premier Serie A Grupo A,32.0,13,12,1.0,0.0,1.0,5000.0,0.08,0.0,1.0,0.08,12,16.67,inf,0.0,-2.23,0.106
+F. Serafino,27.0,170.0,Centrocampistas,MEXICALI FC,Liga Premier Serie A Grupo A,30.0,12,12,0.0,0.0,6.0,8000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-2.42,0.05
+K. García,17.0,167.0,Centrocampistas,MEXICALI FC,Liga Premier Serie A Grupo A,27.0,7,4,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-4.14,0.001
+Victor Medina,22.0,172.0,Centrocampistas,MEXICALI FC,Liga Premier Serie A Grupo A,27.0,8,5,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-3.62,0.013
+Edgar González,20.0,175.0,Centrocampistas,MEXICALI FC,Liga Premier Serie A Grupo A,26.0,3,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-9.67,-0.081
+Luis García,20.0,175.0,Centrocampistas,MEXICALI FC,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-29.0,-0.294
+Diego Montiel,23.0,177.0,Centrocampistas,MEXICALI FC,Liga Premier Serie A Grupo A,26.0,3,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,,0.0,-9.67,-0.081
+Alfredo De Alba,18.0,151.0,Delanteros,UA ZACATECAS,Liga Premier Serie A Grupo A,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,-6.0,-0.056
+David García,23.0,183.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,50.0,15,13,21.0,0.0,2.0,298000.0,1.4,0.0,21.0,1.4,1,60.0,19.8,1.4,1.53,0.958
+J. Pucheta,22.0,180.0,Delanteros,IRAPUATO,Liga Premier Serie A Grupo B,50.0,1,0,1.0,0.0,0.0,1200000.0,1.0,0.0,1.0,1.0,2,3.03,0.97,0.91,20.0,0.847
+Iván Hernández,24.0,179.0,Delanteros,IRAPUATO,Liga Premier Serie A Grupo B,50.0,14,11,13.0,0.0,0.0,325000.0,0.93,0.0,13.0,0.93,2,39.39,12.62,0.85,1.43,0.668
+Francisco Castañeda,25.0,185.0,Delanteros,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,50.0,14,12,12.0,0.0,3.0,348000.0,0.86,0.0,12.0,0.86,5,42.86,17.22,0.55,0.36,0.614
+Juan Rangel,25.0,168.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,56.0,15,14,9.0,0.0,1.0,77777.0,0.6,0.0,9.0,0.6,2,27.27,8.74,0.55,1.33,0.476
+Alejandro Zamora,22.0,165.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,40.0,14,13,7.0,0.0,2.0,80000.0,0.5,0.0,7.0,0.5,1,20.0,6.6,0.5,1.64,0.413
+Juan Agualimpia,22.0,170.0,Delanteros,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,29.0,12,10,6.0,0.0,3.0,11000.0,0.5,0.0,6.0,0.5,3,25.0,5.82,0.41,1.08,0.393
+C. Siqueiros,27.0,178.0,Delanteros,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,47.0,13,13,6.0,0.0,1.0,121000.0,0.46,0.0,6.0,0.46,4,23.08,7.62,0.33,0.77,0.372
+Edgar Rodríguez,21.0,170.0,Delanteros,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,41.0,14,14,6.0,0.0,0.0,317000.0,0.43,0.0,6.0,0.43,4,23.08,7.62,0.31,0.71,0.36
+J. Ramón Salas,27.0,178.0,Delanteros,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,42.0,8,6,3.0,0.0,1.0,103000.0,0.38,0.0,3.0,0.38,3,12.5,2.91,0.31,1.62,0.301
+J. Pucheta,22.0,,Delanteros,IRAPUATO,Liga Premier Serie A Grupo B,36.0,10,8,3.0,0.0,1.0,52000.0,0.3,0.0,3.0,0.3,2,9.09,2.91,0.27,2.0,0.271
+Omar González,27.0,176.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,56.0,12,12,5.0,0.0,1.0,442000.0,0.42,0.0,5.0,0.42,5,17.86,7.17,0.27,0.42,0.337
+D. Valencia,25.0,177.0,Delanteros,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,49.0,14,14,5.0,0.0,1.0,231000.0,0.36,0.0,5.0,0.36,4,19.23,6.35,0.26,0.71,0.318
+C. Santana,24.0,179.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,40.0,14,11,4.0,0.0,2.0,97000.0,0.29,0.0,4.0,0.29,2,12.12,3.88,0.26,1.43,0.284
+Jordy Pizano,22.0,185.0,Defensas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,48.0,13,12,4.0,0.0,4.0,154000.0,0.31,0.0,4.0,0.31,4,15.38,5.08,0.23,0.77,0.282
+Luis Galicia,25.0,178.0,Defensas,IRAPUATO,Liga Premier Serie A Grupo B,54.0,12,10,3.0,0.0,3.0,391000.0,0.25,0.0,3.0,0.25,2,9.09,2.91,0.23,1.67,0.25
+R. Pelaytay,24.0,180.0,Delanteros,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,35.0,13,5,4.0,0.0,3.0,41000.0,0.31,0.0,4.0,0.31,5,14.29,5.74,0.2,0.38,0.277
+Pedro Pacheco,24.0,183.0,Delanteros,CA ZACATEPEC,Liga Premier Serie A Grupo B,39.0,14,13,5.0,0.0,1.0,106000.0,0.36,0.0,5.0,0.36,6,26.32,8.25,0.2,-0.07,0.308
+Bryan Padilla,24.0,180.0,Delanteros,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,36.0,13,11,3.0,0.0,2.0,13000.0,0.23,0.0,3.0,0.23,3,12.5,2.91,0.19,1.0,0.237
+Óscar Arredondo,23.0,182.0,Defensas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,36.0,12,10,2.0,0.0,0.0,46000.0,0.17,0.0,2.0,0.17,1,5.71,1.89,0.17,1.92,0.205
+Patricio Zerecero,25.0,177.0,Delanteros,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,38.0,10,5,2.0,0.0,1.0,68000.0,0.2,0.0,2.0,0.2,3,8.33,1.94,0.16,1.3,0.202
+A. Frausto,23.0,182.0,Delanteros,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,41.0,15,7,3.0,0.0,2.0,81000.0,0.2,0.0,3.0,0.2,3,12.5,2.91,0.16,0.87,0.23
+M. Reynoso,20.0,170.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,27.0,11,1,3.0,0.0,1.0,5000.0,0.27,0.0,3.0,0.27,6,15.79,4.95,0.15,-0.09,0.234
+E. Cerna,27.0,171.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,51.0,6,2,1.0,0.0,0.0,267000.0,0.17,0.0,1.0,0.17,2,3.03,0.97,0.15,3.33,0.182
+Isaác Muñiz,22.0,172.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,42.0,7,4,1.0,0.0,2.0,,0.14,0.0,1.0,0.14,2,3.03,0.97,0.13,2.86,0.165
+Jair Cerda,23.0,185.0,Defensas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,50.0,15,14,2.0,0.0,1.0,214000.0,0.13,0.0,2.0,0.13,1,5.71,1.89,0.13,1.53,0.196
+J. Peña,27.0,163.0,Centrocampistas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,38.0,13,12,2.0,0.0,6.0,47000.0,0.15,0.0,2.0,0.15,3,8.33,1.94,0.12,1.0,0.189
+J. Ruiz,25.0,174.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,57.0,15,14,2.0,0.0,1.0,711000.0,0.13,0.0,2.0,0.13,2,6.06,1.94,0.12,1.33,0.194
+Uriem Castrejón,25.0,170.0,Centrocampistas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,43.0,13,13,2.0,0.0,5.0,78000.0,0.15,0.0,2.0,0.15,3,8.33,1.94,0.12,1.0,0.189
+Marco López,22.0,176.0,Defensas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,48.0,15,14,5.0,0.0,1.0,320000.0,0.33,0.0,5.0,0.33,8,29.41,9.17,0.12,0.33,0.302
+Fermín Pérez,20.0,177.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,33.0,9,1,1.0,0.0,0.0,29000.0,0.11,0.0,1.0,0.11,1,2.86,0.94,0.11,2.56,0.157
+Jayson Alan Sosa,23.0,169.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,48.0,9,3,1.0,0.0,0.0,460000.0,0.11,0.0,1.0,0.11,2,3.03,0.97,0.1,2.22,0.153
+Antonio Martínez,23.0,188.0,Defensas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,49.0,11,10,1.0,0.0,0.0,387000.0,0.09,0.0,1.0,0.09,1,2.86,0.94,0.09,2.09,0.152
+Carlos Muñoz,23.0,164.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,47.0,14,11,2.0,0.0,3.0,282000.0,0.14,0.0,2.0,0.14,5,7.14,2.87,0.09,0.36,0.182
+Sebastián Vega,24.0,182.0,Defensas,CA ZACATEPEC,Liga Premier Serie A Grupo B,38.0,12,11,2.0,0.0,4.0,51000.0,0.17,0.0,2.0,0.17,6,10.53,3.3,0.09,-0.08,0.181
+H. González,25.0,182.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,55.0,13,13,1.0,0.0,1.0,339000.0,0.08,0.0,1.0,0.08,1,2.86,0.94,0.08,1.77,0.156
+Jonatan Vázquez,25.0,177.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,49.0,14,13,2.0,0.0,3.0,208000.0,0.14,0.0,2.0,0.14,6,10.53,3.3,0.08,-0.07,0.176
+Rafael Rodea,26.0,176.0,Centrocampistas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,51.0,9,6,1.0,0.0,0.0,233000.0,0.11,0.0,1.0,0.11,4,3.85,1.27,0.08,1.11,0.139
+M. Rivera,25.0,186.0,Defensas,IRAPUATO,Liga Premier Serie A Grupo B,57.0,11,10,1.0,0.0,6.0,719000.0,0.09,0.0,1.0,0.09,2,3.03,0.97,0.08,1.82,0.149
+Aguilar,22.0,184.0,Centrocampistas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,38.0,9,9,2.0,0.0,1.0,65000.0,0.22,0.0,2.0,0.22,8,11.76,3.67,0.08,0.56,0.199
+D. Barajas,24.0,170.0,Defensas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,39.0,13,12,1.0,0.0,1.0,124000.0,0.08,0.0,1.0,0.08,1,2.86,0.94,0.08,1.77,0.156
+Jocsan Landa,23.0,171.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,41.0,15,13,1.0,0.0,1.0,129000.0,0.07,0.0,1.0,0.07,1,2.86,0.94,0.07,1.53,0.16
+Omar Valerio,22.0,167.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,31.0,9,5,1.0,0.0,0.0,45000.0,0.11,0.0,1.0,0.11,5,3.57,1.43,0.07,0.56,0.133
+J. Huerta,26.0,172.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,45.0,15,8,1.0,0.0,0.0,114000.0,0.07,0.0,1.0,0.07,1,2.86,0.94,0.07,1.53,0.16
+Joel Gómez,23.0,179.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,44.0,14,14,1.0,0.0,0.0,161000.0,0.07,0.0,1.0,0.07,1,2.86,0.94,0.07,1.64,0.155
+L. Hernández,21.0,175.0,Centrocampistas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,32.0,5,4,1.0,0.0,0.0,14000.0,0.2,0.0,1.0,0.2,8,5.88,1.83,0.07,1.0,0.165
+E. Reyes,26.0,169.0,Defensas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,51.0,10,8,1.0,0.0,1.0,257000.0,0.1,0.0,1.0,0.1,4,3.85,1.27,0.07,1.0,0.139
+Salvador Flores,23.0,170.0,Centrocampistas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,47.0,13,9,1.0,0.0,1.0,227000.0,0.08,0.0,1.0,0.08,3,4.17,0.97,0.07,1.0,0.147
+Axel Silva,23.0,171.0,Centrocampistas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,35.0,11,4,1.0,0.0,3.0,54000.0,0.09,0.0,1.0,0.09,3,4.17,0.97,0.07,1.18,0.141
+Alexis García,26.0,181.0,Defensas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,53.0,11,9,1.0,0.0,5.0,230000.0,0.09,0.0,1.0,0.09,4,3.85,1.27,0.07,0.91,0.138
+Sergio Medel,23.0,173.0,Centrocampistas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,27.0,13,8,1.0,0.0,0.0,7000.0,0.08,0.0,1.0,0.08,4,3.85,1.27,0.06,0.77,0.144
+I. León,22.0,190.0,Defensas,CA ZACATEPEC,Liga Premier Serie A Grupo B,28.0,9,8,1.0,0.0,1.0,12000.0,0.11,0.0,1.0,0.11,6,5.26,1.65,0.06,-0.11,0.125
+S. Ochoa,22.0,174.0,Centrocampistas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,29.0,12,11,1.0,0.0,1.0,14000.0,0.08,0.0,1.0,0.08,4,3.85,1.27,0.06,0.83,0.138
+Juan Ramón,25.0,184.0,Delanteros,COLIMA,Liga Premier Serie A Grupo B,29.0,12,6,2.0,0.0,0.0,2000.0,0.17,0.0,2.0,0.17,9,25.0,4.71,0.05,-1.75,0.161
+Alejandro Díaz,23.0,177.0,Delanteros,CA ZACATEPEC,Liga Premier Serie A Grupo B,42.0,11,1,1.0,0.0,2.0,63000.0,0.09,0.0,1.0,0.09,6,5.26,1.65,0.05,-0.09,0.126
+Gianni Rubli,22.0,175.0,Delanteros,UA TAMAULIPAS,Liga Premier Serie A Grupo B,38.0,15,13,2.0,0.0,1.0,55000.0,0.13,0.0,2.0,0.13,8,11.76,3.67,0.05,0.33,0.182
+Alexis Macías,21.0,165.0,Delanteros,UA TAMAULIPAS,Liga Premier Serie A Grupo B,42.0,13,11,2.0,0.0,0.0,188000.0,0.15,0.0,2.0,0.15,8,11.76,3.67,0.05,0.38,0.181
+Brayan Bahena,25.0,170.0,Defensas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,43.0,12,11,1.0,0.0,4.0,75000.0,0.08,0.0,1.0,0.08,5,3.57,1.43,0.05,0.42,0.133
+Brandon Fernández,23.0,183.0,Defensas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,39.0,12,12,1.0,0.0,0.0,117000.0,0.08,0.0,1.0,0.08,5,3.57,1.43,0.05,0.42,0.133
+Rafael Arce,20.0,178.0,Delanteros,UA TAMAULIPAS,Liga Premier Serie A Grupo B,35.0,14,13,2.0,0.0,0.0,51000.0,0.14,0.0,2.0,0.14,8,11.76,3.67,0.05,0.36,0.182
+S. Támez,18.0,182.0,Defensas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,28.0,10,10,1.0,0.0,0.0,9000.0,0.1,0.0,1.0,0.1,8,5.88,1.83,0.04,0.5,0.133
+O. Duarte,22.0,185.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,31.0,13,1,1.0,0.0,2.0,9000.0,0.08,0.0,1.0,0.08,6,5.26,1.65,0.04,-0.08,0.134
+Ángel Hernández,24.0,182.0,Defensas,CA ZACATEPEC,Liga Premier Serie A Grupo B,37.0,13,13,1.0,0.0,0.0,59000.0,0.08,0.0,1.0,0.08,6,5.26,1.65,0.04,-0.08,0.134
+Alan Galindo,17.0,179.0,Centrocampistas,COLIMA,Liga Premier Serie A Grupo B,27.0,14,13,2.0,0.0,1.0,14000.0,0.14,0.0,2.0,0.14,9,25.0,4.71,0.04,-1.5,0.159
+F. Macías,27.0,181.0,Defensas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,53.0,14,13,1.0,0.0,4.0,309000.0,0.07,0.0,1.0,0.07,5,3.57,1.43,0.04,0.36,0.14
+S. Bueno,28.0,174.0,Centrocampistas,COLIMA,Liga Premier Serie A Grupo B,50.0,13,13,2.0,0.0,6.0,128000.0,0.15,0.0,2.0,0.15,9,25.0,4.71,0.04,-1.62,0.157
+Y. Rivas,24.0,174.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,39.0,10,9,4.0,0.0,3.0,33000.0,0.4,0.0,4.0,0.4,11,22.22,13.2,0.04,-1.8,0.285
+Cristopher Molina,21.0,172.0,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,42.0,13,13,3.0,0.0,1.0,130000.0,0.23,0.0,3.0,0.23,10,21.43,8.25,0.04,-1.31,0.209
+J. Pahua,22.0,179.0,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,30.0,10,10,2.0,0.0,2.0,16000.0,0.2,0.0,2.0,0.2,10,14.29,5.5,0.04,-1.7,0.166
+C. Echeagaray,26.0,180.0,Centrocampistas,COLIMA,Liga Premier Serie A Grupo B,33.0,8,7,1.0,0.0,2.0,12000.0,0.12,0.0,1.0,0.12,9,12.5,2.36,0.03,-2.62,0.094
+J. Eguia,20.0,170.0,Delanteros,UA TAMAULIPAS,Liga Premier Serie A Grupo B,42.0,13,10,1.0,0.0,2.0,97000.0,0.08,0.0,1.0,0.08,8,5.88,1.83,0.03,0.38,0.139
+Luis Sandoval,20.0,172.0,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,32.0,12,10,2.0,0.0,1.0,22000.0,0.17,0.0,2.0,0.17,10,14.29,5.5,0.03,-1.42,0.165
+Luis Soto,23.0,168.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,29.0,7,4,2.0,0.0,1.0,9000.0,0.29,0.0,2.0,0.29,11,11.11,6.6,0.03,-2.57,0.19
+Diego Barrón,22.0,175.0,Delanteros,UA TAMAULIPAS,Liga Premier Serie A Grupo B,28.0,13,2,1.0,0.0,1.0,3000.0,0.08,0.0,1.0,0.08,8,5.88,1.83,0.03,0.38,0.139
+J. Zepeda,25.0,,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,32.0,12,12,2.0,0.0,0.0,26000.0,0.17,0.0,2.0,0.17,10,14.29,5.5,0.03,-1.42,0.165
+Etzin Villa,19.0,173.0,Defensas,SPORTING CANAMY,Liga Premier Serie A Grupo B,27.0,6,3,1.0,0.0,2.0,9000.0,0.17,0.0,1.0,0.17,11,5.56,3.3,0.02,-3.0,0.106
+Kevin Navarrete,23.0,186.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,39.0,11,10,3.0,0.0,4.0,39000.0,0.27,0.0,3.0,0.27,11,16.67,9.9,0.02,-1.64,0.216
+Zander Benitez,17.0,,Defensas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,26.0,9,8,1.0,0.0,0.0,6000.0,0.11,0.0,1.0,0.11,10,7.14,2.75,0.02,-1.89,0.103
+Óscar Pérez,25.0,175.0,Centrocampistas,COLIMA,Liga Premier Serie A Grupo B,32.0,13,3,1.0,0.0,3.0,9000.0,0.08,0.0,1.0,0.08,9,12.5,2.36,0.02,-1.62,0.115
+Dairo Berrio,26.0,177.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,46.0,12,12,2.0,0.0,1.0,75000.0,0.17,0.0,2.0,0.17,11,11.11,6.6,0.02,-1.5,0.164
+Iratzy Domínguez,26.0,174.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,43.0,13,13,1.0,0.0,2.0,44000.0,0.08,0.0,1.0,0.08,11,5.56,3.3,0.01,-1.38,0.118
+K. Pérez,20.0,188.0,Defensas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,35.0,12,9,1.0,0.0,0.0,22000.0,0.08,0.0,1.0,0.08,10,7.14,2.75,0.01,-1.42,0.111
+Francisco Vivas,19.0,173.0,Delanteros,AGUACATEROS CDU,Liga Premier Serie A Grupo B,31.0,12,5,1.0,0.0,0.0,18000.0,0.08,0.0,1.0,0.08,10,7.14,2.75,0.01,-1.42,0.111
+Rodrigo De La Cruz,19.0,163.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,26.0,8,3,1.0,0.0,0.0,2000.0,0.12,0.0,1.0,0.12,11,5.56,3.3,0.01,-2.25,0.098
+I. Aguilar,27.0,178.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,36.0,9,2,1.0,0.0,1.0,19000.0,0.11,0.0,1.0,0.11,11,5.56,3.3,0.01,-2.0,0.102
+L. Ortíz,17.0,185.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,28.0,7,1,0.0,0.0,0.0,16000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,3.29,0.086
+Alberto Rodríguez,24.0,,Defensas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,39.0,8,3,0.0,0.0,0.0,36000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.88,0.088
+C. Méndez,22.0,171.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,26.0,3,3,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,7.67,0.112
+J. Cortez,16.0,167.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-25.0,-0.293
+C. Saldaña,19.0,170.0,Delanteros,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,4,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-6.25,-0.048
+S. Madrid,26.0,180.0,Defensas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,46.0,7,5,0.0,0.0,0.0,121000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,3.29,0.086
+Edson Padilla,21.0,170.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,27.0,11,1,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.09,0.098
+Landon Fonseca,19.0,169.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,1,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-25.0,-0.293
+F. García,26.0,165.0,Delanteros,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,44.0,11,11,0.0,0.0,3.0,60000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.27,0.046
+Juan Rodríguez,26.0,166.0,Delanteros,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,10,3,1.0,0.0,0.0,2000.0,0.1,0.0,1.0,0.1,12,10.0,5.5,0.0,-2.5,0.097
+Rubén Coubert,21.0,180.0,Delanteros,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,34.0,13,12,2.0,0.0,4.0,16000.0,0.15,0.0,2.0,0.15,12,20.0,11.0,0.0,-1.92,0.154
+Axel Chávez,24.0,175.0,Delanteros,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,12,5,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.08,0.055
+Angel Hernandez,16.0,168.0,Delanteros,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-25.0,-0.293
+Cesar Patiño,17.0,172.0,Delanteros,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-25.0,-0.293
+F. Vázquez,26.0,157.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,48.0,9,4,0.0,0.0,0.0,170000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.56,0.091
+Prince Rodríguez,22.0,169.0,Centrocampistas,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,30.0,10,0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,2.3,0.094
+I. Morales,21.0,169.0,Delanteros,IRAPUATO,Liga Premier Serie A Grupo B,26.0,5,0,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,4.0,0.081
+Nicolás Arze,22.0,190.0,Delanteros,AGUACATEROS DE PERIBÁN,Liga Premier Serie A Grupo B,26.0,4,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,5.75,0.096
+R. Fuentes,22.0,172.0,Defensas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,26.0,3,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-5.67,-0.048
+Alexis Villareal,21.0,172.0,Centrocampistas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,43.0,5,5,0.0,0.0,1.0,195000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,1.0,0.045
+Emilio López,19.0,176.0,Centrocampistas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,32.0,15,11,0.0,0.0,0.0,36000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.33,0.104
+Danilo Rincón,21.0,176.0,Centrocampistas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,35.0,13,8,0.0,0.0,0.0,57000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.38,0.091
+H. Velázquez,17.0,174.0,Delanteros,UA TAMAULIPAS,Liga Premier Serie A Grupo B,36.0,2,2,0.0,0.0,0.0,98000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,2.5,0.043
+Gael Moreno,18.0,169.0,Defensas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,30.0,14,12,0.0,0.0,0.0,16000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.21,0.079
+Emmanuel Villa,17.0,172.0,Defensas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,27.0,13,10,0.0,0.0,0.0,9000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.31,0.071
+Angel Garcia,16.0,172.0,Defensas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-17.0,-0.197
+Julio Flores,21.0,175.0,Defensas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,30.0,9,6,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.56,0.067
+Owen Hernández,18.0,184.0,Defensas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,26.0,3,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-5.67,-0.048
+Manuel Guzmán,23.0,174.0,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,31.0,10,8,0.0,0.0,0.0,11000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.7,0.046
+Alejandro Anzar,20.0,156.0,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,31.0,11,10,0.0,0.0,1.0,15000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.55,0.055
+Kevin Arias,21.0,175.0,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,34.0,1,1,0.0,0.0,0.0,56000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-17.0,-0.197
+Daniel Martínez,20.0,176.0,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,27.0,4,2,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-4.25,-0.024
+Luis Cardiel,22.0,181.0,Centrocampistas,AGUACATEROS CDU,Liga Premier Serie A Grupo B,26.0,2,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-8.5,-0.089
+Jorge Dimas,20.0,176.0,Defensas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,26.0,2,0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,2.5,0.043
+S. Aguilar,19.0,174.0,Defensas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,28.0,8,6,0.0,0.0,2.0,7000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.62,0.061
+Víctor Reyes,25.0,182.0,Defensas,IRAPUATO,Liga Premier Serie A Grupo B,50.0,8,8,0.0,0.0,3.0,308000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.5,0.083
+A. Pérez,21.0,166.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,33.0,12,8,0.0,0.0,1.0,47000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1.67,0.1
+J. Gaytán,26.0,174.0,Defensas,IRAPUATO,Liga Premier Serie A Grupo B,48.0,9,7,0.0,0.0,2.0,165000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.22,0.087
+Edgar Hernández,23.0,177.0,Defensas,IRAPUATO,Liga Premier Serie A Grupo B,44.0,4,2,0.0,0.0,1.0,176000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,5.0,0.087
+Rafael Ortíz,21.0,178.0,Defensas,IRAPUATO,Liga Premier Serie A Grupo B,32.0,4,1,0.0,0.0,,22000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,5.0,0.087
+Eduardo Díaz,22.0,180.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,51.0,6,4,0.0,0.0,0.0,535000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,3.33,0.08
+Juan Magaña,22.0,178.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,40.0,11,10,0.0,0.0,0.0,75000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1.82,0.095
+Jorge Lumbreras,22.0,180.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,47.0,3,0,0.0,0.0,0.0,297000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,6.67,0.1
+Jesús Jiménez,22.0,162.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,36.0,3,1,0.0,0.0,1.0,100000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,6.67,0.1
+Mario Sarmiento,25.0,174.0,Defensas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,42.0,2,2,0.0,0.0,1.0,73000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,2.5,0.043
+G. Góngora,24.0,167.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,,9,0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.22,0.087
+J. León,19.0,162.0,Centrocampistas,IRAPUATO,Liga Premier Serie A Grupo B,33.0,5,4,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,4.0,0.081
+Álvaro Vidales,20.0,178.0,Delanteros,IRAPUATO,Liga Premier Serie A Grupo B,44.0,1,0,0.0,0.0,0.0,61000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,20.0,0.247
+Adrián Arellano,24.0,164.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,3,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-8.33,-0.08
+Joaquín Estopier,23.0,169.0,Defensas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,44.0,1,0,0.0,0.0,0.0,179000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,5.0,0.067
+Leonardo Dávila,22.0,186.0,Defensas,UA TAMAULIPAS,Liga Premier Serie A Grupo B,42.0,7,7,0.0,0.0,0.0,51000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.71,0.055
+Leonardo Salazar,24.0,170.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,2,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-12.5,-0.137
+Jaime González,26.0,178.0,Defensas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,50.0,14,14,0.0,0.0,2.0,180000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,0.93,0.104
+José Pérez,17.0,160.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-25.0,-0.293
+Carlos Alvarado,23.0,178.0,Defensas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,42.0,11,8,0.0,0.0,0.0,117000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.45,0.079
+V. Rojas,25.0,172.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,45.0,7,5,0.0,0.0,1.0,117000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.71,0.055
+C. Leal,27.0,174.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,47.0,12,4,0.0,0.0,0.0,101000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.42,0.085
+Josué Márquez,24.0,170.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,43.0,4,3,0.0,0.0,0.0,129000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.25,0.042
+E. Perez,22.0,172.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,40.0,12,4,0.0,0.0,4.0,69000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.42,0.085
+Tito García,21.0,185.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,34.0,7,6,0.0,0.0,1.0,26000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.71,0.055
+Yonathan Nieto,22.0,160.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,27.0,9,4,0.0,0.0,1.0,14000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.56,0.067
+Pablo Nascimento,23.0,185.0,Centrocampistas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,32.0,10,3,0.0,0.0,1.0,8000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.5,0.073
+C. Urbina,26.0,160.0,Delanteros,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,45.0,10,9,0.0,0.0,3.0,171000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.5,0.073
+M. Martinez,18.0,181.0,Delanteros,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,26.0,3,2,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.67,0.04
+G. García,24.0,166.0,Defensas,CA ZACATEPEC,Liga Premier Serie A Grupo B,45.0,12,9,0.0,0.0,3.0,129000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.08,0.079
+David Gómez,23.0,180.0,Defensas,CA ZACATEPEC,Liga Premier Serie A Grupo B,33.0,9,9,0.0,0.0,6.0,36000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.11,0.059
+Jonathan Díaz,26.0,170.0,Defensas,CA ZACATEPEC,Liga Premier Serie A Grupo B,34.0,4,4,0.0,0.0,3.0,83000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.25,0.024
+M. Huerta,24.0,171.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,46.0,13,7,0.0,0.0,0.0,132000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.08,0.086
+Jesús Núñez,22.0,179.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,44.0,10,8,0.0,0.0,1.0,142000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.1,0.065
+Jorge Adan,23.0,172.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,45.0,4,2,0.0,0.0,0.0,91000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.25,0.024
+José Cruz,22.0,164.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,29.0,11,6,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.09,0.072
+D. Donato,22.0,175.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,28.0,11,7,0.0,0.0,1.0,16000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.09,0.072
+Alonso Razo,21.0,172.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,32.0,5,0,0.0,0.0,0.0,15000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-0.2,0.031
+D. Sánchez,19.0,170.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,27.0,1,1,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-1.0,-0.005
+A. Amador,19.0,175.0,Defensas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,5.0,0.067
+O. Pérez,24.0,179.0,Defensas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,44.0,6,6,0.0,0.0,3.0,167000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.83,0.05
+F. Altamirano,24.0,176.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,28.0,1,1,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-1.0,-0.005
+Diego Gutiérrez,23.0,177.0,Defensas,GAVILANES MATAMOROS,Liga Premier Serie A Grupo B,51.0,9,5,0.0,0.0,1.0,357000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.56,0.067
+Jesus Gonzalez,20.0,186.0,Defensas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,38.0,9,4,0.0,0.0,1.0,46000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.44,0.077
+B. Guerrero,18.0,175.0,Defensas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,26.0,3,1,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,4.33,0.072
+J. Mercado,19.0,172.0,Defensas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,13.0,0.163
+E. Mora,21.0,176.0,Defensas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,13.0,0.163
+Carlos Salcido,22.0,173.0,Centrocampistas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,37.0,12,11,0.0,0.0,1.0,89000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.08,0.093
+Abel Muñoz,19.0,175.0,Centrocampistas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,33.0,10,6,0.0,0.0,2.0,32000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.3,0.082
+K. Ortega,22.0,167.0,Delanteros,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,39.0,9,0,0.0,0.0,1.0,25000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.44,0.077
+Oscar Espinoza,26.0,169.0,Defensas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,51.0,14,11,0.0,0.0,3.0,190000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.71,0.102
+E. Zavala,23.0,172.0,Defensas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,31.0,14,10,0.0,0.0,1.0,10000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.71,0.102
+S. Oñate,21.0,178.0,Defensas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,10.0,0.127
+Edgar Hernández,17.0,184.0,Defensas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,10.0,0.127
+C. Quiroz,24.0,182.0,Centrocampistas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,43.0,7,7,0.0,0.0,1.0,130000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.43,0.064
+Erick Ramírez,21.0,168.0,Centrocampistas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,28.0,14,14,0.0,0.0,2.0,27000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.71,0.102
+Jonathan Cordova,18.0,178.0,Centrocampistas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,26.0,4,1,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.5,0.057
+Miguel Guillen,21.0,180.0,Centrocampistas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,26.0,2,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,5.0,0.073
+Néstor Bucio,16.0,165.0,Centrocampistas,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,26.0,6,0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.67,0.06
+Ronaldo Reyes,20.0,174.0,Delanteros,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,26.0,3,0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,3.33,0.06
+R. Aranda,16.0,177.0,Delanteros,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,26.0,4,0,0.0,0.0,0.0,9000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.5,0.057
+Jesús Ayala,23.0,180.0,Delanteros,REBOCEROS DE LA PIEDAD,Liga Premier Serie A Grupo B,26.0,3,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,3.33,0.06
+José Dávalos,23.0,169.0,Centrocampistas,CA ZACATEPEC,Liga Premier Serie A Grupo B,27.0,1,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-1.0,-0.005
+A. Corona,18.0,174.0,Delanteros,CA ZACATEPEC,Liga Premier Serie A Grupo B,26.0,1,1,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,-1.0,-0.005
+Manuel Batalla,21.0,166.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,2,1,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-12.5,-0.137
+Keiner Cordoba,25.0,184.0,Defensas,HALCONES DE ZAPOPAN,Liga Premier Serie A Grupo B,45.0,11,11,0.0,0.0,5.0,97000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,1.18,0.087
+Sebastián Vizarretea,20.0,185.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,26.0,7,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-2.57,0.016
+Alejandro Islas,21.0,175.0,Delanteros,SPORTING CANAMY,Liga Premier Serie A Grupo B,34.0,14,14,0.0,0.0,0.0,19000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.29,0.078
+Gabriel Vidal,22.0,186.0,Delanteros,SPORTING CANAMY,Liga Premier Serie A Grupo B,29.0,10,4,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.8,0.045
+Alan Bell,17.0,166.0,Delanteros,SPORTING CANAMY,Liga Premier Serie A Grupo B,26.0,3,0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-6.0,-0.052
+Giovani Frisone Prieto,20.0,175.0,Defensas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,33.0,13,13,0.0,0.0,1.0,86000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.92,0.064
+Noé Sánchez,25.0,187.0,Defensas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,39.0,12,12,0.0,0.0,6.0,51000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.08,0.055
+Alejandro Garibay,24.0,186.0,Defensas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,38.0,4,3,0.0,0.0,1.0,24000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-6.25,-0.048
+Ricardo Vidal,19.0,178.0,Defensas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,29.0,9,9,0.0,0.0,5.0,7000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.78,0.027
+Emiliano Manriquez,18.0,172.0,Defensas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,1,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-25.0,-0.293
+Christian Murillo,18.0,178.0,Defensas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-25.0,-0.293
+A. Collazo,19.0,170.0,Defensas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,6,4,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-4.17,-0.01
+Ángel Díaz,27.0,183.0,Defensas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,26.0,5,3,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-5.0,-0.027
+E. Torres,22.0,176.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,30.0,12,12,2.0,0.0,1.0,8000.0,0.17,0.0,2.0,0.17,12,20.0,11.0,0.0,-2.08,0.157
+K. Rodríguez,19.0,170.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,27.0,13,9,0.0,0.0,2.0,7000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.92,0.064
+Abner Becerril,20.0,167.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,32.0,14,7,0.0,0.0,3.0,19000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-1.79,0.072
+Jhansel Abreu,24.0,190.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,27.0,10,5,3.0,0.0,4.0,1000.0,0.3,0.0,3.0,0.3,12,30.0,16.5,0.0,-2.5,0.217
+C. González,23.0,160.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,27.0,11,6,1.0,0.0,0.0,2000.0,0.09,0.0,1.0,0.09,12,10.0,5.5,0.0,-2.27,0.1
+Bryan Alcantara,23.0,175.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,27.0,13,8,1.0,0.0,0.0,3000.0,0.08,0.0,1.0,0.08,12,10.0,5.5,0.0,-1.92,0.112
+Mario Cárdenas,25.0,172.0,Centrocampistas,PETROLEROS DE SALAMANCA,Liga Premier Serie A Grupo B,29.0,7,6,0.0,0.0,1.0,6000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-3.57,0.004
+Pedro Del Ángel,23.0,170.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,26.0,4,0,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-4.5,-0.027
+Bryan Caceres,22.0,170.0,Centrocampistas,SPORTING CANAMY,Liga Premier Serie A Grupo B,31.0,10,6,0.0,0.0,0.0,14000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.8,0.045
+Marco Pérez,19.0,173.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,29.0,14,14,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-1.5,0.075
+Oscar Macías,23.0,185.0,Defensas,SPORTING CANAMY,Liga Premier Serie A Grupo B,27.0,8,6,0.0,0.0,2.0,5000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-2.25,0.026
+Juan Cortés,24.0,183.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,37.0,7,7,0.0,0.0,1.0,23000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-3.0,0.011
+Raúl Bueno,19.0,183.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,35.0,12,12,0.0,0.0,3.0,37000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-1.75,0.059
+Oscar Regalado,22.0,178.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,29.0,9,9,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-2.33,0.032
+L. García,21.0,184.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,32.0,10,9,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-2.1,0.041
+Emiliano Padilla,24.0,178.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,32.0,5,4,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-4.2,-0.017
+Abraham Alvarez,20.0,188.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,30.0,11,10,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-1.91,0.05
+Armando Álvarez,22.0,186.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,28.0,5,1,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-4.2,-0.017
+Christopher Oyarvide,20.0,172.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,26.0,7,0,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-3.0,0.011
+Wilberth Martínez,22.0,176.0,Defensas,COLIMA,Liga Premier Serie A Grupo B,27.0,3,1,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-7.0,-0.064
+Daniel Medina,19.0,172.0,Centrocampistas,COLIMA,Liga Premier Serie A Grupo B,31.0,11,7,0.0,0.0,0.0,23000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-1.91,0.05
+Agustín Ortíz,26.0,172.0,Centrocampistas,COLIMA,Liga Premier Serie A Grupo B,32.0,7,0,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-3.0,0.011
+Hector Alvarez,23.0,173.0,Centrocampistas,COLIMA,Liga Premier Serie A Grupo B,26.0,10,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-2.1,0.041
+Diego Sangalli,25.0,170.0,Delanteros,COLIMA,Liga Premier Serie A Grupo B,30.0,14,13,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-1.5,0.075
+Joshua Ochoa,17.0,173.0,Delanteros,COLIMA,Liga Premier Serie A Grupo B,27.0,7,6,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-3.0,0.011
+Anderson Hernández,19.0,160.0,Delanteros,COLIMA,Liga Premier Serie A Grupo B,26.0,3,0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-7.0,-0.064
+Oswaldo Solorio,24.0,186.0,Defensas,SPORTING CANAMY,Liga Premier Serie A Grupo B,45.0,11,10,0.0,0.0,4.0,100000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.64,0.054
+Héctor Sánchez,23.0,190.0,Defensas,SPORTING CANAMY,Liga Premier Serie A Grupo B,33.0,13,13,0.0,0.0,5.0,15000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.38,0.07
+J. Estrada,24.0,166.0,Defensas,SPORTING CANAMY,Liga Premier Serie A Grupo B,38.0,5,3,0.0,0.0,1.0,55000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-3.6,-0.01
+Omar Martínez,22.0,180.0,Defensas,SPORTING CANAMY,Liga Premier Serie A Grupo B,27.0,13,13,0.0,0.0,2.0,6000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.38,0.07
+J. Silva,22.0,,Delanteros,AGUACATEROS CDU,Liga Premier Serie A Grupo B,27.0,3,3,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-5.67,-0.048
+A. Hernández,27.0,184.0,Delanteros,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,52.0,15,15,12.0,0.0,3.0,393000.0,0.8,0.0,12.0,0.8,1,54.55,13.2,0.8,0.87,0.588
+Hugo Hernández,19.0,185.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,28.0,1,0,1.0,0.0,0.0,2000.0,1.0,0.0,1.0,1.0,5,5.88,1.38,0.64,5.0,0.652
+Klinsman,27.0,180.0,Delanteros,JAGUARES FC,Liga Premier Serie A Grupo C,58.0,13,13,12.0,0.0,5.0,711000.0,0.92,0.0,12.0,0.92,6,42.86,18.0,0.5,0.85,0.646
+S. Micolta,25.0,182.0,Delanteros,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,51.0,15,14,8.0,0.0,2.0,227000.0,0.53,0.0,8.0,0.53,2,27.59,9.78,0.48,1.2,0.429
+C. Landa,26.0,183.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,50.0,14,14,8.0,0.0,2.0,209000.0,0.57,0.0,8.0,0.57,4,34.78,10.56,0.41,0.71,0.442
+Gamaliel Sánchez,24.0,170.0,Centrocampistas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,38.0,15,6,5.0,0.0,0.0,52000.0,0.33,0.0,5.0,0.33,1,22.73,5.5,0.33,0.87,0.306
+Diego Núñez,24.0,167.0,Delanteros,MONTAÑESES,Liga Premier Serie A Grupo C,50.0,14,13,6.0,0.0,0.0,193000.0,0.43,0.0,6.0,0.43,4,26.09,7.92,0.31,0.71,0.358
+A. Echezarreta,26.0,182.0,Delanteros,CD CHILPANCINGO,Liga Premier Serie A Grupo C,31.0,13,13,5.0,0.0,4.0,5000.0,0.38,0.0,5.0,0.38,3,22.73,6.11,0.31,-0.08,0.314
+O. Nava,24.0,180.0,Delanteros,CD CHILPANCINGO,Liga Premier Serie A Grupo C,34.0,14,14,5.0,0.0,3.0,13000.0,0.36,0.0,5.0,0.36,3,22.73,6.11,0.29,-0.07,0.309
+Renato Jaramillo,23.0,166.0,Delanteros,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,42.0,14,6,4.0,0.0,1.0,102000.0,0.29,0.0,4.0,0.29,2,13.79,4.89,0.26,1.29,0.279
+Eleuterio Jiménez,27.0,174.0,Delanteros,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,52.0,15,11,4.0,0.0,0.0,293000.0,0.27,0.0,4.0,0.27,2,13.79,4.89,0.25,1.2,0.273
+Juan García,22.0,167.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,36.0,13,11,5.0,0.0,0.0,17000.0,0.38,0.0,5.0,0.38,5,29.41,6.88,0.24,0.38,0.318
+Edwin Orrantia,23.0,158.0,Centrocampistas,JAGUARES FC,Liga Premier Serie A Grupo C,41.0,12,9,5.0,0.0,3.0,187000.0,0.42,0.0,5.0,0.42,6,17.86,7.5,0.23,0.92,0.34
+Moisés Villatoro,23.0,175.0,Delanteros,TAPACHULA FC,Liga Premier Serie A Grupo C,31.0,13,12,8.0,0.0,3.0,3000.0,0.62,0.0,8.0,0.62,8,33.33,12.57,0.23,0.0,0.459
+Lucas Da Silva,23.0,178.0,Delanteros,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,33.0,9,2,2.0,0.0,1.0,21000.0,0.22,0.0,2.0,0.22,2,6.9,2.44,0.2,2.0,0.21
+J. Cantú,25.0,168.0,Centrocampistas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,52.0,14,12,6.0,0.0,3.0,199000.0,0.43,0.0,6.0,0.43,7,30.0,9.0,0.2,0.21,0.353
+Axel García,25.0,169.0,Delanteros,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,48.0,14,8,3.0,0.0,1.0,226000.0,0.21,0.0,3.0,0.21,2,10.34,3.67,0.19,1.29,0.231
+Edzohl Valdovinos,22.0,173.0,Centrocampistas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,41.0,13,13,3.0,0.0,3.0,84000.0,0.23,0.0,3.0,0.23,3,13.64,3.67,0.19,-0.08,0.224
+J. Ornelas,26.0,185.0,Defensas,MONTAÑESES,Liga Premier Serie A Grupo C,41.0,13,13,3.0,0.0,10.0,101000.0,0.23,0.0,3.0,0.23,4,13.04,3.96,0.17,0.77,0.232
+José Rodríguez,23.0,178.0,Defensas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,48.0,11,10,2.0,0.0,1.0,268000.0,0.18,0.0,2.0,0.18,2,6.9,2.44,0.16,1.64,0.196
+B. Ayala,22.0,163.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,27.0,4,1,1.0,0.0,0.0,1000.0,0.25,0.0,1.0,0.25,5,5.88,1.38,0.16,1.25,0.188
+D. Amador,28.0,176.0,Delanteros,JAGUARES FC,Liga Premier Serie A Grupo C,58.0,14,14,4.0,0.0,2.0,727000.0,0.29,0.0,4.0,0.29,6,14.29,6.0,0.16,0.79,0.275
+F. Ramírez,25.0,180.0,Delanteros,TAPACHULA FC,Liga Premier Serie A Grupo C,33.0,14,10,6.0,0.0,0.0,4000.0,0.43,0.0,6.0,0.43,8,25.0,9.43,0.16,0.0,0.351
+Cristian García,25.0,176.0,Centrocampistas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,49.0,12,12,2.0,0.0,3.0,199000.0,0.17,0.0,2.0,0.17,2,6.9,2.44,0.15,1.5,0.196
+K. Peñaloza,23.0,178.0,Delanteros,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,44.0,13,8,2.0,0.0,4.0,185000.0,0.15,0.0,2.0,0.15,1,9.09,2.2,0.15,1.0,0.186
+G. Miranda,28.0,172.0,Delanteros,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,35.0,13,11,3.0,0.0,2.0,12000.0,0.23,0.0,3.0,0.23,5,17.65,4.12,0.15,0.38,0.228
+Yomar Renteria,23.0,180.0,Delanteros,TAPACHULA FC,Liga Premier Serie A Grupo C,33.0,13,12,5.0,0.0,5.0,4000.0,0.38,0.0,5.0,0.38,8,20.83,7.86,0.14,0.0,0.315
+C. Aguirre,26.0,178.0,Defensas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,47.0,13,13,2.0,0.0,0.0,187000.0,0.15,0.0,2.0,0.15,2,6.9,2.44,0.14,1.38,0.189
+Diego Piñón,22.0,170.0,Centrocampistas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,41.0,14,11,2.0,0.0,4.0,179000.0,0.14,0.0,2.0,0.14,1,9.09,2.2,0.14,0.93,0.186
+L. García,26.0,181.0,Defensas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,52.0,14,14,4.0,0.0,0.0,254000.0,0.29,0.0,4.0,0.29,7,20.0,6.0,0.13,0.21,0.269
+Carlos Fonseca,23.0,159.0,Centrocampistas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,55.0,14,14,4.0,0.0,1.0,431000.0,0.29,0.0,4.0,0.29,7,20.0,6.0,0.13,0.21,0.269
+B. García,26.0,173.0,Delanteros,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,39.0,14,10,2.0,0.0,0.0,61000.0,0.14,0.0,2.0,0.14,2,6.9,2.44,0.13,1.29,0.189
+D. Choreño,25.0,177.0,Defensas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,50.0,13,10,2.0,0.0,3.0,173000.0,0.15,0.0,2.0,0.15,3,9.09,2.44,0.12,-0.08,0.176
+A. González,25.0,176.0,Centrocampistas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,52.0,14,14,2.0,0.0,2.0,276000.0,0.14,0.0,2.0,0.14,3,9.09,2.44,0.11,-0.07,0.177
+Ángel Ramos,22.0,163.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,35.0,7,3,1.0,0.0,1.0,14000.0,0.14,0.0,1.0,0.14,5,5.88,1.38,0.09,0.71,0.137
+Antonio López,22.0,182.0,Defensas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,41.0,11,3,2.0,0.0,0.0,66000.0,0.18,0.0,2.0,0.18,7,10.0,3.0,0.08,0.27,0.184
+G. León,25.0,173.0,Delanteros,JAGUARES FC,Liga Premier Serie A Grupo C,51.0,13,9,2.0,0.0,3.0,447000.0,0.15,0.0,2.0,0.15,6,7.14,3.0,0.08,0.85,0.184
+Jehu González,26.0,174.0,Centrocampistas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,27.0,10,0,1.0,0.0,2.0,3000.0,0.1,0.0,1.0,0.1,3,4.55,1.22,0.08,-0.1,0.126
+Juan Montoya,25.0,,Defensas,TAPACHULA FC,Liga Premier Serie A Grupo C,33.0,9,5,2.0,0.0,2.0,12000.0,0.22,0.0,2.0,0.22,8,8.33,3.14,0.08,0.0,0.192
+Miguel Guzmán,23.0,179.0,Delanteros,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,44.0,14,12,4.0,0.0,0.0,196000.0,0.29,0.0,4.0,0.29,9,23.53,6.29,0.08,-0.21,0.265
+J. García,18.0,167.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,33.0,10,7,3.0,0.0,1.0,58000.0,0.3,0.0,3.0,0.3,9,17.65,4.71,0.08,-0.3,0.244
+Axel Martín Zamora,25.0,181.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,47.0,9,9,1.0,0.0,3.0,154000.0,0.11,0.0,1.0,0.11,4,4.35,1.32,0.08,1.11,0.136
+Isidro Suárez,21.0,168.0,Centrocampistas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,42.0,12,8,1.0,0.0,5.0,67000.0,0.08,0.0,1.0,0.08,1,4.55,1.1,0.08,1.08,0.138
+Jorge Contreras,24.0,180.0,Defensas,MONTAÑESES,Liga Premier Serie A Grupo C,45.0,10,9,1.0,0.0,4.0,155000.0,0.1,0.0,1.0,0.1,4,4.35,1.32,0.07,1.0,0.136
+Gonzalo Rivero,23.0,184.0,Centrocampistas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,30.0,13,13,1.0,0.0,1.0,7000.0,0.08,0.0,1.0,0.08,3,4.55,1.22,0.07,-0.08,0.134
+U. Lara,19.0,170.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,27.0,10,6,2.0,0.0,1.0,2000.0,0.2,0.0,2.0,0.2,8,8.33,3.14,0.07,0.0,0.187
+A. Molina,26.0,178.0,Defensas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,47.0,13,13,1.0,0.0,6.0,186000.0,0.08,0.0,1.0,0.08,3,4.55,1.22,0.07,-0.08,0.134
+O. Vidaña,24.0,174.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,44.0,10,8,1.0,0.0,1.0,203000.0,0.1,0.0,1.0,0.1,4,4.35,1.32,0.07,1.0,0.136
+A. Arías,24.0,179.0,Defensas,MONTAÑESES,Liga Premier Serie A Grupo C,35.0,13,13,1.0,0.0,0.0,24000.0,0.08,0.0,1.0,0.08,4,4.35,1.32,0.06,0.77,0.142
+José Díaz,22.0,171.0,Delanteros,ZITACUARO,Liga Premier Serie A Grupo C,27.0,12,12,4.0,0.0,0.0,9000.0,0.33,0.0,4.0,0.33,10,25.0,9.43,0.06,-0.67,0.272
+Josué Hernández,23.0,173.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,33.0,11,9,1.0,0.0,6.0,4000.0,0.09,0.0,1.0,0.09,5,5.88,1.38,0.06,0.45,0.131
+K. Flores,23.0,173.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,27.0,10,5,1.0,0.0,3.0,2000.0,0.1,0.0,1.0,0.1,5,5.88,1.38,0.06,0.5,0.131
+C. Parra,25.0,178.0,Defensas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,32.0,14,14,1.0,0.0,2.0,11000.0,0.07,0.0,1.0,0.07,3,4.55,1.22,0.06,-0.07,0.135
+D. Abella,26.0,183.0,Delanteros,JAGUARES FC,Liga Premier Serie A Grupo C,45.0,9,2,1.0,0.0,2.0,180000.0,0.11,0.0,1.0,0.11,6,3.57,1.5,0.06,1.22,0.137
+F. Soberanis,21.0,175.0,Defensas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,35.0,14,14,1.0,0.0,2.0,18000.0,0.07,0.0,1.0,0.07,3,4.55,1.22,0.06,-0.07,0.135
+J. Martínez,27.0,163.0,Centrocampistas,JAGUARES FC,Liga Premier Serie A Grupo C,30.0,11,9,1.0,0.0,0.0,18000.0,0.09,0.0,1.0,0.09,6,3.57,1.5,0.05,1.0,0.136
+J. Carrillo,24.0,175.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,33.0,12,12,1.0,0.0,3.0,4000.0,0.08,0.0,1.0,0.08,5,5.88,1.38,0.05,0.42,0.132
+César Arroyo,21.0,167.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,32.0,13,7,1.0,0.0,1.0,3000.0,0.08,0.0,1.0,0.08,5,5.88,1.38,0.05,0.38,0.138
+P. Quintos,27.0,172.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,33.0,12,12,1.0,0.0,4.0,3000.0,0.08,0.0,1.0,0.08,5,5.88,1.38,0.05,0.42,0.132
+A. Viveros,22.0,175.0,Defensas,ZITACUARO,Liga Premier Serie A Grupo C,28.0,5,5,1.0,0.0,3.0,11000.0,0.2,0.0,1.0,0.2,10,6.25,2.36,0.04,-1.6,0.139
+Fernando Laymon,23.0,174.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,32.0,14,14,1.0,0.0,4.0,4000.0,0.07,0.0,1.0,0.07,5,5.88,1.38,0.04,0.36,0.139
+F. Ramírez,26.0,185.0,Defensas,JAGUARES FC,Liga Premier Serie A Grupo C,56.0,14,14,1.0,0.0,4.0,491000.0,0.07,0.0,1.0,0.07,6,3.57,1.5,0.04,0.79,0.143
+P. Hermida,26.0,179.0,Defensas,JAGUARES FC,Liga Premier Serie A Grupo C,54.0,12,11,1.0,0.0,5.0,363000.0,0.08,0.0,1.0,0.08,6,3.57,1.5,0.04,0.92,0.136
+Alan Zubiri,24.0,182.0,Defensas,JAGUARES FC,Liga Premier Serie A Grupo C,52.0,13,12,1.0,0.0,2.0,452000.0,0.08,0.0,1.0,0.08,6,3.57,1.5,0.04,0.85,0.142
+O. Panuco,23.0,170.0,Delanteros,TAPACHULA FC,Liga Premier Serie A Grupo C,28.0,10,3,1.0,0.0,2.0,4000.0,0.1,0.0,1.0,0.1,8,4.17,1.57,0.04,0.0,0.127
+Félix Falcón,22.0,172.0,Delanteros,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,31.0,12,5,1.0,0.0,3.0,16000.0,0.08,0.0,1.0,0.08,7,5.0,1.5,0.04,0.25,0.13
+C. Martinez,25.0,170.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,46.0,13,13,2.0,0.0,4.0,197000.0,0.15,0.0,2.0,0.15,9,11.76,3.14,0.04,-0.23,0.175
+Jesús Torres,24.0,171.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,50.0,13,13,2.0,0.0,4.0,397000.0,0.15,0.0,2.0,0.15,9,11.76,3.14,0.04,-0.23,0.175
+César Colin,21.0,179.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,33.0,12,12,4.0,0.0,3.0,5000.0,0.33,0.0,4.0,0.33,11,17.39,9.43,0.03,-1.17,0.267
+Guillermo García,21.0,172.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,30.0,14,10,4.0,0.0,2.0,2000.0,0.29,0.0,4.0,0.29,11,17.39,9.43,0.03,-1.0,0.258
+Z. Oca,23.0,172.0,Defensas,ZITACUARO,Liga Premier Serie A Grupo C,31.0,14,9,2.0,0.0,4.0,9000.0,0.14,0.0,2.0,0.14,10,12.5,4.71,0.03,-0.57,0.172
+Juan Hernández,27.0,172.0,Defensas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,56.0,14,13,1.0,0.0,3.0,402000.0,0.07,0.0,1.0,0.07,7,5.0,1.5,0.03,0.21,0.137
+Abisai Cruz,23.0,180.0,Delanteros,ZITACUARO,Liga Premier Serie A Grupo C,28.0,14,12,2.0,0.0,1.0,7000.0,0.14,0.0,2.0,0.14,10,12.5,4.71,0.03,-0.57,0.172
+K. Sánchez,18.0,173.0,Defensas,ACATLAN,Liga Premier Serie A Grupo C,28.0,5,0,1.0,0.0,0.0,2000.0,0.2,0.0,1.0,0.2,11,4.35,2.36,0.02,-2.8,0.128
+J. Chacón,21.0,170.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,28.0,11,10,2.0,0.0,0.0,2000.0,0.18,0.0,2.0,0.18,11,8.7,4.71,0.02,-1.27,0.17
+Néstor De La Cruz,23.0,174.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,29.0,12,8,1.0,0.0,4.0,27000.0,0.08,0.0,1.0,0.08,9,5.88,1.57,0.02,-0.25,0.126
+Víctor Rico,24.0,172.0,Delanteros,ZITACUARO,Liga Premier Serie A Grupo C,34.0,11,10,1.0,0.0,1.0,14000.0,0.09,0.0,1.0,0.09,10,6.25,2.36,0.02,-0.73,0.121
+Carlos Pérez,24.0,176.0,Defensas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,39.0,11,9,1.0,0.0,4.0,77000.0,0.09,0.0,1.0,0.09,9,5.88,1.57,0.02,-0.27,0.125
+A. Godínez,24.0,172.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,46.0,14,14,1.0,0.0,3.0,142000.0,0.07,0.0,1.0,0.07,9,5.88,1.57,0.02,-0.21,0.133
+Arturo Arias,19.0,170.0,Centrocampistas,ZITACUARO,Liga Premier Serie A Grupo C,26.0,9,3,1.0,0.0,1.0,4000.0,0.11,0.0,1.0,0.11,10,6.25,2.36,0.02,-0.89,0.118
+J. Arias,22.0,170.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,36.0,13,9,1.0,0.0,3.0,30000.0,0.08,0.0,1.0,0.08,11,4.35,2.36,0.01,-1.08,0.125
+Daniel Mederos,24.0,175.0,Defensas,ZITACUARO,Liga Premier Serie A Grupo C,46.0,13,13,1.0,0.0,1.0,65000.0,0.08,0.0,1.0,0.08,10,6.25,2.36,0.01,-0.62,0.129
+P. Nuño,22.0,182.0,Defensas,ACATLAN,Liga Premier Serie A Grupo C,31.0,11,11,1.0,0.0,4.0,3000.0,0.09,0.0,1.0,0.09,11,4.35,2.36,0.01,-1.27,0.116
+V. Rodriguez,23.0,,Centrocampistas,ZITACUARO,Liga Premier Serie A Grupo C,35.0,13,13,1.0,0.0,6.0,35000.0,0.08,0.0,1.0,0.08,10,6.25,2.36,0.01,-0.62,0.129
+Javi Medina,28.0,177.0,Defensas,ACATLAN,Liga Premier Serie A Grupo C,56.0,10,9,1.0,0.0,2.0,261000.0,0.1,0.0,1.0,0.1,11,4.35,2.36,0.01,-1.4,0.114
+O. Díaz,20.0,188.0,Defensas,ACATLAN,Liga Premier Serie A Grupo C,35.0,12,12,1.0,0.0,4.0,5000.0,0.08,0.0,1.0,0.08,11,4.35,2.36,0.01,-1.17,0.117
+L. Garcia,19.0,170.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,33.0,14,13,1.0,0.0,1.0,5000.0,0.07,0.0,1.0,0.07,11,4.35,2.36,0.01,-1.0,0.126
+Luis Cota,21.0,186.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,32.0,13,5,1.0,0.0,5.0,7000.0,0.08,0.0,1.0,0.08,11,4.35,2.36,0.01,-1.08,0.125
+Edwin Bravo,18.0,180.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,26.0,9,3,1.0,0.0,1.0,1000.0,0.11,0.0,1.0,0.11,11,4.35,2.36,0.01,-1.56,0.112
+Salvador Sánchez,23.0,174.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,30.0,4,0,0.0,0.0,1.0,7000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.75,0.02
+E. Rivera,25.0,190.0,Defensas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,49.0,12,10,0.0,0.0,2.0,271000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.25,0.078
+Carlos Prieto,24.0,180.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,45.0,14,14,0.0,0.0,1.0,144000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.21,0.091
+Alexander Espinosa,23.0,182.0,Delanteros,TAPACHULA FC,Liga Premier Serie A Grupo C,29.0,7,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.047
+Juan Valencia,,177.0,Delanteros,TAPACHULA FC,Liga Premier Serie A Grupo C,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.007
+Ramón Cano,22.0,164.0,Defensas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,48.0,9,5,0.0,0.0,0.0,293000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.33,0.057
+J. Puc,23.0,156.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,26.0,7,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.43,0.043
+Gabriel Flores,19.0,183.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,26.0,3,1,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-1.0,0.011
+O. De La Cruz,18.0,176.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,30.0,5,0,0.0,0.0,1.0,2000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.033
+Sebastián Porcayo,21.0,163.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,26.0,2,0,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.013
+Matías Bazzi,24.0,178.0,Defensas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,39.0,10,10,0.0,0.0,8.0,50000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.3,0.064
+Juan Lizama,22.0,167.0,Defensas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,28.0,5,3,0.0,0.0,0.0,13000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.6,0.028
+Enrique De La Paz,21.0,172.0,Defensas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,26.0,2,0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-1.5,-0.0
+F. Moreno,16.0,174.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,26.0,3,0,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.02
+J. Lugo,27.0,175.0,Centrocampistas,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,53.0,10,7,0.0,0.0,1.0,326000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.3,0.064
+Osman Mora,19.0,170.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,26.0,3,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.02
+J. Vega,26.0,171.0,Defensas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,55.0,14,14,0.0,0.0,0.0,339000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0.93,0.102
+Ricardo Renteria,21.0,175.0,Delanteros,INTER PLAYA DEL CARMEN,Liga Premier Serie A Grupo C,26.0,5,0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,9,0.0,0.0,0.0,-0.6,0.028
+Carlos Loza,25.0,,Defensas,ZITACUARO,Liga Premier Serie A Grupo C,26.0,7,6,0.0,0.0,3.0,1000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.14,0.036
+Omar Alamilla,19.0,175.0,Defensas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,3,2,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-11.0,-0.08
+Uriel Sanchez,24.0,175.0,Defensas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,2,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-16.5,-0.137
+J. Pacheco,26.0,183.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,43.0,14,14,1.0,0.0,3.0,33000.0,0.07,0.0,1.0,0.07,12,7.69,8.25,0.0,-2.36,0.114
+S. Caicedo,24.0,170.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,43.0,13,13,1.0,0.0,9.0,70000.0,0.08,0.0,1.0,0.08,12,7.69,8.25,0.0,-2.54,0.112
+Sergio García,23.0,176.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,39.0,13,11,3.0,0.0,1.0,30000.0,0.23,0.0,3.0,0.23,12,23.08,24.75,0.0,-2.54,0.202
+Alan Corona,24.0,176.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,35.0,4,2,0.0,0.0,0.0,7000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-8.25,-0.048
+Neri Martínez,23.0,178.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,35.0,13,10,0.0,0.0,3.0,8000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.54,0.064
+J. Arias,23.0,170.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,30.0,12,9,2.0,0.0,1.0,2000.0,0.17,0.0,2.0,0.17,12,15.38,16.5,0.0,-2.75,0.157
+Hugo Vázquez,27.0,175.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,27.0,12,8,1.0,0.0,3.0,1000.0,0.08,0.0,1.0,0.08,12,7.69,8.25,0.0,-2.75,0.103
+Nicolás Jiménez,24.0,180.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,10,2,1.0,0.0,2.0,1000.0,0.1,0.0,1.0,0.1,12,7.69,8.25,0.0,-3.3,0.097
+Gilberto Castillo,27.0,170.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,11,5,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-3.0,0.046
+Abel Duran,18.0,175.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-33.0,-0.293
+Ramses Cabrera,23.0,170.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,4,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-8.25,-0.048
+Kevin Terrones,22.0,168.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,7,2,0.0,0.0,3.0,2000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-4.71,0.004
+Aldo Corona,24.0,171.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,4,2,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-8.25,-0.048
+C. Acevedo,23.0,181.0,Centrocampistas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,5,2,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-6.6,-0.027
+Alan Roberto Flores,24.0,182.0,Delanteros,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,44.0,14,14,3.0,0.0,1.0,39000.0,0.21,0.0,3.0,0.21,12,23.08,24.75,0.0,-2.36,0.198
+Israel Contreras,18.0,162.0,Defensas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,27.0,10,8,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-3.3,0.037
+Juan Ramírez,24.0,178.0,Defensas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,42.0,9,9,0.0,0.0,1.0,36000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-3.67,0.027
+Pablo Guzmán,25.0,185.0,Defensas,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,53.0,13,12,0.0,0.0,6.0,231000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-2.54,0.064
+A. Sisa,22.0,190.0,Delanteros,ZITACUARO,Liga Premier Serie A Grupo C,36.0,5,2,0.0,0.0,1.0,56000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.6,0.019
+Rubén Iniestra,21.0,163.0,Defensas,ZITACUARO,Liga Premier Serie A Grupo C,26.0,7,1,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.14,0.036
+Mauricio Morales,23.0,171.0,Centrocampistas,ZITACUARO,Liga Premier Serie A Grupo C,29.0,13,11,0.0,0.0,2.0,6000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.62,0.081
+Uriel González,23.0,175.0,Centrocampistas,ZITACUARO,Liga Premier Serie A Grupo C,31.0,11,11,0.0,0.0,7.0,8000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.73,0.067
+A. Méndez,18.0,167.0,Centrocampistas,ZITACUARO,Liga Premier Serie A Grupo C,34.0,7,5,0.0,0.0,0.0,22000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-1.14,0.036
+Y. Hernandez,21.0,166.0,Centrocampistas,ZITACUARO,Liga Premier Serie A Grupo C,26.0,9,2,0.0,0.0,1.0,2000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-0.89,0.052
+Niguel Gonzalez,18.0,156.0,Centrocampistas,ZITACUARO,Liga Premier Serie A Grupo C,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-8.0,-0.066
+Gael Hernández,19.0,175.0,Centrocampistas,ZITACUARO,Liga Premier Serie A Grupo C,26.0,4,3,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-2.0,0.008
+Stephano Ledesma,23.0,169.0,Delanteros,ZITACUARO,Liga Premier Serie A Grupo C,26.0,4,1,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,-2.0,0.008
+Antonio Escobar,23.0,174.0,Delanteros,ACATLAN,Liga Premier Serie A Grupo C,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-14.0,-0.121
+Alan Cuevas,21.0,190.0,Defensas,ACATLAN,Liga Premier Serie A Grupo C,33.0,11,10,0.0,0.0,3.0,12000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-1.27,0.062
+Omar Velazquez,19.0,172.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,26.0,6,4,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-2.33,0.019
+J. Maldonado,20.0,,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,26.0,7,3,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-2.0,0.028
+J. Rabadán,26.0,168.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,26.0,4,3,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-3.5,-0.005
+Carlos Quintero,23.0,174.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,26.0,3,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-4.67,-0.022
+Ramón Guzmán,17.0,170.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,26.0,4,2,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-3.5,-0.005
+Ricardo Rangel,21.0,170.0,Centrocampistas,ACATLAN,Liga Premier Serie A Grupo C,26.0,3,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,11,0.0,0.0,0.0,-4.67,-0.022
+J. Dorado,24.0,179.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,32.0,4,1,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.027
+J. Coutiño,18.0,174.0,Delanteros,JAGUARES FC,Liga Premier Serie A Grupo C,26.0,2,1,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,5.5,0.063
+M. Izaguirre,22.0,174.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,30.0,10,9,0.0,0.0,7.0,23000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.067
+José Solís,21.0,181.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,40.0,11,9,0.0,0.0,3.0,91000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.073
+E. Nava,22.0,175.0,Defensas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,32.0,3,2,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,-0.33,0.017
+Luis Calva,17.0,183.0,Defensas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,-1.0,-0.002
+Diego Rivas,22.0,160.0,Centrocampistas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,33.0,11,6,0.0,0.0,0.0,27000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,-0.09,0.073
+Obed Valdovinos,17.0,171.0,Centrocampistas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,26.0,2,1,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,-0.5,0.009
+Roberto Martínez,23.0,170.0,Centrocampistas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,26.0,3,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,-0.33,0.017
+David Escobar,23.0,174.0,Centrocampistas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,26.0,3,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,-0.33,0.017
+Uriel Osorio,23.0,177.0,Defensas,MONTAÑESES,Liga Premier Serie A Grupo C,33.0,1,1,0.0,0.0,0.0,9000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,10.0,0.098
+Oscar Castillo,23.0,185.0,Defensas,MONTAÑESES,Liga Premier Serie A Grupo C,35.0,3,2,0.0,0.0,0.0,30000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,3.33,0.05
+Osiel Herrera,24.0,169.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,50.0,13,10,0.0,0.0,0.0,275000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.77,0.094
+E. Mendoza,27.0,180.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,39.0,12,12,0.0,0.0,4.0,68000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.83,0.088
+César Cortes,24.0,175.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,45.0,13,13,0.0,0.0,3.0,170000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.77,0.094
+Salvador Galicia,23.0,164.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,31.0,13,11,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,0.77,0.094
+Emmanuel Cruz,23.0,177.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,30.0,7,5,0.0,0.0,1.0,10000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.43,0.06
+César Pantoja,23.0,178.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,34.0,10,0,0.0,0.0,0.0,39000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.0,0.076
+Miguel Martínez,17.0,159.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,32.0,2,0,0.0,0.0,1.0,34000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,5.0,0.059
+Emmanuel Oliva,23.0,167.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,26.0,4,0,0.0,0.0,1.0,2000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.5,0.049
+José Hernández,22.0,175.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,26.0,4,0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.5,0.049
+Abdiel Hernández,18.0,175.0,Centrocampistas,MONTAÑESES,Liga Premier Serie A Grupo C,26.0,6,3,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,1.67,0.055
+I. Arellano,20.0,169.0,Delanteros,MONTAÑESES,Liga Premier Serie A Grupo C,26.0,2,0,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,5.0,0.059
+Alejandro Alarcón,26.0,176.0,Defensas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,29.0,10,9,0.0,0.0,5.0,3000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,-0.1,0.066
+O. Radilla,21.0,174.0,Defensas,CD CHILPANCINGO,Liga Premier Serie A Grupo C,30.0,12,4,0.0,0.0,1.0,7000.0,0.0,0.0,0.0,0.0,3,0.0,0.0,0.0,-0.08,0.079
+J. Ciprián,21.0,171.0,Delanteros,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,26.0,2,1,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,9.0,0.095
+Jesús Haro,23.0,172.0,Centrocampistas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,40.0,1,0,0.0,0.0,0.0,48000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,13.0,0.125
+E. Jaramillo,24.0,181.0,Defensas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,48.0,9,6,0.0,0.0,4.0,258000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.44,0.073
+L. Calderon,24.0,182.0,Defensas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,40.0,13,13,0.0,0.0,5.0,50000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.0,0.096
+Luis Gómez,21.0,171.0,Defensas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,33.0,9,8,0.0,0.0,2.0,25000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.44,0.073
+C. López,28.0,173.0,Defensas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,38.0,7,3,0.0,0.0,2.0,78000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.86,0.064
+Abel Barrón,23.0,188.0,Defensas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,30.0,8,5,0.0,0.0,1.0,11000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.62,0.068
+Edson Martínez,25.0,167.0,Centrocampistas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,50.0,13,12,0.0,0.0,1.0,373000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.0,0.096
+L. Castillo,27.0,176.0,Centrocampistas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,47.0,7,2,0.0,0.0,0.0,100000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.86,0.064
+A. Gallo,23.0,175.0,Centrocampistas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,32.0,11,9,0.0,0.0,2.0,15000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.18,0.084
+Farid Patjane,24.0,175.0,Delanteros,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,44.0,7,3,0.0,0.0,0.0,128000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.86,0.064
+José Flores,22.0,175.0,Centrocampistas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,37.0,10,1,0.0,0.0,3.0,28000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1.8,0.083
+L. Carmona,16.0,173.0,Delanteros,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,26.0,2,0,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,6.5,0.072
+E. Garcia,24.0,173.0,Defensas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,51.0,9,8,0.0,0.0,1.0,223000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.0,0.078
+F. Ponce,26.0,170.0,Defensas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,51.0,13,13,0.0,0.0,5.0,198000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1.38,0.099
+E. Hernández,22.0,176.0,Defensas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,36.0,8,8,0.0,0.0,4.0,22000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.25,0.074
+Carlos Vazquez,27.0,174.0,Centrocampistas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,43.0,13,13,0.0,0.0,5.0,48000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1.38,0.099
+Oswaldo Ríos,23.0,170.0,Centrocampistas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,47.0,8,3,0.0,0.0,0.0,164000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2.25,0.074
+Maximiliano Palacios,23.0,165.0,Centrocampistas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,43.0,4,2,0.0,0.0,2.0,111000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,4.5,0.068
+Juan Medina,22.0,173.0,Centrocampistas,DEPORTIVA VENADOS,Liga Premier Serie A Grupo C,37.0,5,1,0.0,0.0,1.0,36000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,3.6,0.066
+Bernardo Cabrera,24.0,186.0,Delanteros,MONTAÑESES,Liga Premier Serie A Grupo C,26.0,5,1,0.0,0.0,2.0,2000.0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,2.0,0.052
+Victor Moreno,22.0,180.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,44.0,3,2,0.0,0.0,0.0,136000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.67,0.035
+Alejandro Amador,24.0,180.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,34.0,2,1,0.0,0.0,0.0,3000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,2.5,0.036
+Luis Aquino,24.0,182.0,Delanteros,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,44.0,11,6,0.0,0.0,0.0,160000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.27,0.076
+José González,23.0,180.0,Defensas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,46.0,12,11,0.0,0.0,2.0,258000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.25,0.082
+Jorge Reynoso,23.0,183.0,Defensas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,44.0,11,6,0.0,0.0,2.0,139000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.27,0.076
+J. Guillén,24.0,176.0,Centrocampistas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,44.0,11,4,0.0,0.0,2.0,190000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.27,0.076
+Horacio García,23.0,178.0,Centrocampistas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,42.0,13,12,0.0,0.0,3.0,163000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.23,0.089
+Emiliano García,27.0,170.0,Centrocampistas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,43.0,12,2,0.0,0.0,1.0,128000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.25,0.082
+Brayam Blancas,24.0,175.0,Centrocampistas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,39.0,10,6,0.0,0.0,0.0,61000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.3,0.069
+Kevin Esquivel,23.0,173.0,Centrocampistas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,39.0,10,4,0.0,0.0,1.0,106000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.3,0.069
+Diego Ramírez,20.0,172.0,Centrocampistas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,37.0,1,0,0.0,0.0,0.0,63000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,3.0,0.034
+Juan Calderón,18.0,168.0,Delanteros,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,26.0,6,1,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.5,0.045
+N. González,27.0,179.0,Defensas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,55.0,13,13,0.0,0.0,5.0,332000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.23,0.089
+Jared Castillo,22.0,170.0,Delanteros,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,26.0,1,0,0.0,0.0,0.0,6000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,3.0,0.034
+J. Navarro,22.0,168.0,Defensas,TAPACHULA FC,Liga Premier Serie A Grupo C,33.0,12,12,0.0,0.0,5.0,24000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.08
+R. Hernández,24.0,164.0,Defensas,TAPACHULA FC,Liga Premier Serie A Grupo C,32.0,13,11,0.0,0.0,6.0,3000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.087
+N. De León,20.0,175.0,Defensas,TAPACHULA FC,Liga Premier Serie A Grupo C,31.0,14,14,0.0,0.0,3.0,4000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.093
+A. Espinosa,23.0,180.0,Defensas,TAPACHULA FC,Liga Premier Serie A Grupo C,29.0,14,13,0.0,0.0,1.0,2000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.093
+L. Silias,23.0,177.0,Defensas,TAPACHULA FC,Liga Premier Serie A Grupo C,32.0,11,8,0.0,0.0,1.0,3000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.073
+O. Mora,24.0,180.0,Defensas,TAPACHULA FC,Liga Premier Serie A Grupo C,26.0,1,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.007
+Alan Vazquez,19.0,172.0,Centrocampistas,TAPACHULA FC,Liga Premier Serie A Grupo C,35.0,14,14,0.0,0.0,2.0,38000.0,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,0.0,0.093
+O. De La Cruz,27.0,172.0,Defensas,PIONEROS DE CANCÚN,Liga Premier Serie A Grupo C,55.0,13,12,0.0,0.0,0.0,467000.0,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,0.23,0.089
+D. Hernández,27.0,185.0,Defensas,RACING DE VERACRUZ,Liga Premier Serie A Grupo C,55.0,11,11,0.0,0.0,2.0,329000.0,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,1.18,0.084
+Emmanuel Patiño,21.0,170.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,31.0,4,3,0.0,0.0,0.0,9000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.25,0.038
+B. Silva,26.0,185.0,Delanteros,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,44.0,11,3,0.0,0.0,1.0,53000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.45,0.077
+Luis Alvarado,21.0,178.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,31.0,11,2,0.0,0.0,1.0,5000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.45,0.077
+E. Olvera,20.0,165.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,26.0,1,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,5.0,0.052
+Irving Romero,20.0,163.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,26.0,1,0,0.0,0.0,1.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,5.0,0.052
+Juan Gabian,19.0,176.0,Defensas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,26.0,1,1,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,5.0,0.052
+Brayan Flores,23.0,159.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,32.0,13,13,0.0,0.0,5.0,5000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.38,0.09
+E. Cortés,22.0,168.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,29.0,10,7,0.0,0.0,3.0,6000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.5,0.071
+Adrian Aizalla,18.0,165.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,26.0,3,2,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.67,0.035
+Eduardo Mayen,22.0,178.0,Centrocampistas,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,26.0,3,0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,1.67,0.035
+J. Vázquez,23.0,174.0,Delanteros,FARAONES TEXCOCO,Liga Premier Serie A Grupo C,29.0,13,9,0.0,0.0,4.0,2000.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.38,0.09
+Jason Pérez,24.0,175.0,Delanteros,JAGUARES FC,Liga Premier Serie A Grupo C,30.0,4,0,0.0,0.0,0.0,8000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,2.75,0.052
+Melchor López,24.0,180.0,Defensas,JAGUARES FC,Liga Premier Serie A Grupo C,50.0,14,12,0.0,0.0,1.0,362000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.79,0.101
+F. López,23.0,,Defensas,JAGUARES FC,Liga Premier Serie A Grupo C,33.0,12,9,0.0,0.0,5.0,22000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.92,0.088
+Luis Sánchez,22.0,172.0,Defensas,JAGUARES FC,Liga Premier Serie A Grupo C,29.0,13,13,0.0,0.0,3.0,26000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0.85,0.094
+Omar Reynoso,23.0,173.0,Defensas,JAGUARES FC,Liga Premier Serie A Grupo C,39.0,11,3,0.0,0.0,1.0,62000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.0,0.082
+E. Quezada,23.0,168.0,Centrocampistas,JAGUARES FC,Liga Premier Serie A Grupo C,47.0,7,3,0.0,0.0,0.0,239000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,1.57,0.061
+Ricardo López,22.0,185.0,Centrocampistas,JAGUARES FC,Liga Premier Serie A Grupo C,44.0,5,1,0.0,0.0,0.0,196000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,2.2,0.053
+Á. Torres,18.0,174.0,Centrocampistas,JAGUARES FC,Liga Premier Serie A Grupo C,28.0,4,1,0.0,0.0,2.0,12000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,2.75,0.052
+Jose Melendez,23.0,184.0,Delanteros,JAGUARES FC,Liga Premier Serie A Grupo C,37.0,3,2,0.0,0.0,0.0,47000.0,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,3.67,0.053
+Jesus Vargas,24.0,180.0,Delanteros,SAN JUAN DE ARAGÓN,Liga Premier Serie A Grupo C,26.0,6,4,0.0,0.0,4.0,1000.0,0.0,0.0,0.0,0.0,12,0.0,0.0,0.0,-5.5,-0.01
