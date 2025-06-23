@@ -6,7 +6,7 @@ st.title('Visualización y Filtros de Jugadores - Scouting')
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('D:\Mexico FC\Liga_Premier_MX\Futbol_liga_Premier_SA.csv')
+    return pd.read_csv('Futbol_liga_Premier_SA.csv')
 
 df = load_data()
 
